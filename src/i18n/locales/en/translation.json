@@ -13,7 +13,28 @@
     "ilvDescription": "ILV A.C. Description"
   },
   "register": "Register",
-  "contact": "Contact Us",
+    "registerInfo": {
+      "title": "Register",
+      "registrationLinkText": "Registration Form",
+      "paymentInfoTitle": "Payment Information",
+      "paymentDetails": {
+        "bank": "Bank: HSBC",
+        "name": "Name: BUAP VIEP ACT-ACADEM.",
+        "account": "Account: 4070369335",
+        "interbankClabe": "Interbank CLABE: 021650040703693352",
+        "reference": "Reference: Inscripción DILA 2024",
+        "importantNote": "Important: If making a digital transfer, in the Reference field include: Inscripción DILA 2024 and the full name of the student. If paying at the bank, the receipt must have the full name of the student written in blue ink.",
+        "instructions": "Once the deposit or transfer is made, it is necessary to send the receipt by email with the subject: \"Inscripción DILA 2024\" to the addresses we will provide, with the full name of the person to be registered. This name will be used for the Diploma once approved.",
+        "invoiceNote": "If an invoice is required, it must be indicated when sending the payment receipt.",
+        "investment": "INVESTMENT: $5000.00 MXN (five thousand Mexican pesos)",
+        "includes": "Includes registration for the diploma, materials for activities, daily breakfast, and diploma (upon meeting the requirements for its issuance)."
+      }
+    },
+    "contact": "Contact Us",
+    "contactInfo": {
+      "title": "Contact",
+      "contactDetails": "Some name address email"
+    },
   "aboutInfo": {
     "heading": "160 TOTAL HOURS OF FACE-TO-FACE DIPLOMA",
     "sessionDetails": "Sessions from Monday to Friday from 8:00 to 17:00 hrs. June 24 to July 19, 2024",
@@ -163,5 +184,28 @@
   "courseCatalog": "Course Catalog",
   "pueblaCityDescription": "Description of the City of Puebla",
   "buapDescription": "Description of the BUAP",
-  "ilvDescription": "Description of the ILV"
-}
+  "ilvDescription": "Description of the ILV",
+    "studentRequirements": {
+      "languageProficiency": {
+        "heading": "Language Proficiency",
+        "details": "Must speak Spanish at an academic fluency level. Ideally, should be a speaker of an indigenous language of Mexico, especially for courses related to translation and applied linguistics in the community. Life experience as a native or fluent speaker of an indigenous language of Mexico counts as academic preparation for the course."
+      },
+      "educationalBackground": {
+        "heading": "Educational Background",
+        "details": "A bachelor's degree in linguistics, education, anthropology, or a related field is preferred. Previous coursework or experience in linguistics or language studies is advantageous."
+      },
+      "professionalExperience": {
+        "heading": "Professional Experience",
+        "details": "Experience in teaching, language documentation, translation, or community work with indigenous languages is highly desirable. Practical experience in linguistic research or language preservation projects is beneficial."
+      },
+      "technicalSkills": {
+        "heading": "Technical Skills",
+        "details": "Familiarity with linguistic software and tools is a plus. Basic computer skills, including proficiency in Microsoft Office and internet research."
+      },
+      "otherRequirements": {
+        "heading": "Other Requirements",
+        "details": "A strong commitment to the preservation and promotion of indigenous languages and cultures. Ability to work collaboratively in a multicultural and multilingual environment. Good communication and interpersonal skills."
+      }
+    }
+  }
+  

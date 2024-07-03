@@ -13,8 +13,29 @@
     "ilvDescription": "Descripción del ILV A.C."
   },
   "register": "Registrar",
-  "contact": "Contáctenos",
-  "aboutInfo": {
+    "registerInfo": {
+      "title": "Registrar",
+      "registrationLinkText": "Formulario de Registro",
+      "paymentInfoTitle": "Información de Pago",
+      "paymentDetails": {
+        "bank": "Banco: HSBC",
+        "name": "Nombre: BUAP VIEP ACT-ACADEM.",
+        "account": "Cuenta: 4070369335",
+        "interbankClabe": "Clabe Interbancaria: 021650040703693352",
+        "reference": "Referencia: Inscripción DILA 2024",
+        "importantNote": "Importante: Si realiza una transferencia digital, en el campo de Referencia incluya: Inscripción DILA 2024 y el nombre completo del estudiante. Si paga en el banco, el recibo debe tener el nombre completo del estudiante escrito con tinta azul.",
+        "instructions": "Una vez realizado el depósito o transferencia, es necesario enviar el recibo por correo electrónico con el asunto: \"Inscripción DILA 2024\" a las direcciones que indicaremos, con el nombre completo de la persona a inscribir. Este nombre se usará para el Diploma una vez aprobado.",
+        "invoiceNote": "Si se requiere factura, debe indicarse al enviar el recibo de pago.",
+        "investment": "INVERSIÓN: $5000.00 MXN (cinco mil pesos mexicanos)",
+        "includes": "Incluye inscripción para el diploma, materiales para actividades, desayuno diario y diploma (al cumplir con los requisitos para su emisión)."
+      }
+    },
+    "contact": "Contáctenos",
+    "contactInfo": {
+      "title": "Contacto",
+      "contactDetails": "Algun nombre, dirección, correo electrónico"
+    },
+      "aboutInfo": {
     "heading": "160 HORAS TOTALES DE DIPLOMADO PRESENCIAL",
     "sessionDetails": "Sesiones de lunes a viernes de 8:00 a 17:00 hrs. 24 de junio al 19 de julio de 2024",
     "description": "El Diplomado Internacional en Lingüística Aplicada (DILA 2024) consta de cuatro módulos con un valor curricular de 160 horas.",
@@ -163,5 +184,28 @@
   "courseCatalog": "Catálogo de Cursos",
   "pueblaCityDescription": "Descripción de la Ciudad de Puebla",
   "buapDescription": "Descripción de la BUAP",
-  "ilvDescription": "Descripción del ILV"
-}
+  "ilvDescription": "Descripción del ILV",
+    "studentRequirements": {
+      "languageProficiency": {
+        "heading": "Dominio del Idioma",
+        "details": "Debe hablar español a un nivel de fluidez académica. Idealmente, debe ser hablante de una lengua indígena de México, especialmente para los cursos relacionados con la traducción y la lingüística aplicada en la comunidad. La experiencia de vida como hablante nativo o fluido de una lengua indígena de México cuenta como preparación académica para el curso."
+      },
+      "educationalBackground": {
+        "heading": "Antecedentes Educativos",
+        "details": "Se prefiere una licenciatura en lingüística, educación, antropología o un campo relacionado. Haber cursado o tener experiencia previa en lingüística o estudios de idiomas es ventajoso."
+      },
+      "professionalExperience": {
+        "heading": "Experiencia Profesional",
+        "details": "Es altamente deseable tener experiencia en la enseñanza, documentación de lenguas, traducción o trabajo comunitario con lenguas indígenas. La experiencia práctica en investigación lingüística o proyectos de preservación de lenguas es beneficiosa."
+      },
+      "technicalSkills": {
+        "heading": "Habilidades Técnicas",
+        "details": "La familiaridad con software y herramientas lingüísticas es una ventaja. Habilidades básicas en informática, incluyendo competencia en Microsoft Office e investigación en internet."
+      },
+      "otherRequirements": {
+        "heading": "Otros Requisitos",
+        "details": "Un fuerte compromiso con la preservación y promoción de las lenguas y culturas indígenas. Capacidad para trabajar colaborativamente en un entorno multicultural y multilingüe. Buenas habilidades de comunicación e interpersonales."
+      }
+    }
+  }
+  
