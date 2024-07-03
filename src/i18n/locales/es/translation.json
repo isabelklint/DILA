@@ -1,0 +1,167 @@
+{
+  "home": "Inicio",
+  "welcome": "Bienvenido a DILA",
+  "about": "Acerca de",
+"programDetails": "Detalles del Programa",
+  "programDetailsSections": {
+    "description": "algunas detalles sobre el programa",
+    "courseCatalog": "Catálogo de Cursos",
+    "docents": "Docentes",
+    "adminTeam": "Equipo Administrativo",
+    "pueblaCityDescription": "Descripción de la Ciudad de Puebla",
+    "buapDescription": "Descripción de la BUAP",
+    "ilvDescription": "Descripción del ILV A.C."
+  },
+  "register": "Registrar",
+  "contact": "Contáctenos",
+  "aboutInfo": {
+    "heading": "160 HORAS TOTALES DE DIPLOMADO PRESENCIAL",
+    "sessionDetails": "Sesiones de lunes a viernes de 8:00 a 17:00 hrs. 24 de junio al 19 de julio de 2024",
+    "description": "El Diplomado Internacional en Lingüística Aplicada (DILA 2024) consta de cuatro módulos con un valor curricular de 160 horas.",
+    "compulsorySubjects": "Incluye dos materias obligatorias:",
+    "subjectsList": [
+      "Fonética Articulatoria",
+      "Lingüística Descriptiva"
+    ],
+    "electives": "Cuatro optativas: Sociolingüística, Principios de Traducción, Documentación de las Lenguas, y Adquisición de otra Lengua, de las cuales cada alumno selecciona dos a cursar.",
+    "quality": "El Diplomado proporciona contenido científico-académico de calidad internacional orientado a las lenguas originarias de México."
+  },
+  "docents": "Docentes",
+  "docentsList": [
+    {
+      "name": "Victoria Infante",
+      "role": "Lingüística descriptiva",
+      "bio": "Victoria Infante es miembro de la Missão ALEM en Brasil donde se certificó como técnico de Lingüística. Actualmente es la directora del Departamento de Cursos en el mismo programa. Desde 2018 enseña Análisis Fonológico, Análisis Gramatical y materias relacionadas en el Curso de Linguística y Misiología (CLM) ofrecido por la Missão ALEM. Actualmente está culminando su Maestría en Linguística y su enfoque investigativo se centra en la lengua Ninam del Alto Mucajaí, perteneciente al grupo Yanomami.",
+      "img": "/images/victoria.jpg"
+    },
+    {
+      "name": "Ricky Kroeger",
+      "role": "Fonética",
+      "bio": "Lingüista con el Instituto Lingüístico de Verano estudiando el zapoteco de San Pablo Güilá en Valles Centrales, Oaxaca desde 2018 hasta el presente. Tiene licenciatura en lingüística de la Universidad de California, San Diego y está terminando su maestría en lingüística aplicada en Dallas International University. Sus intereses incluyen las lenguas zapotecas y otomangues, la lingüística histórica, y la morfología. Está escribiendo su tesis acerca de la relación histórica entre la familia Popolocana y Zapotecana.",
+      "img": "/images/ricky.jpg"
+    },
+    {
+      "name": "Reyna Verónica Quintanar Najera",
+      "role": "Lingüística descriptiva",
+      "bio": "Licenciada y Maestra en Lingüística, Danzaterapeuta con experiencia en danza contemporánea y estudiante del último semestre del Doctorado en Humanidades. Experiencia en trabajo de campo e investigadora del triqui del Poblado Miguel Alemán originario del triqui de Copala con publicaciones sobre la lengua. Estancia académica en España. He dirigido jornadas comunitarias y misiones rurales. He impartido talleres de comprensión lectora, clases de lingüística, redacción, pensamiento científico, expresión corporal y artes. En entrenamientos misioneros nacionales, he dado talleres de danza contemporánea nivel principiante. Experiencia con niños, adolescentes, jóvenes y adultos. Actualmente, sirvo en el ministerio de danza y misiones como líder en mi iglesia local junto con mi esposo.",
+      "img": "/images/reyna.jpg"
+    },
+    {
+      "name": "Filip Dale",
+      "role": "Adquisición lingüística",
+      "bio": "Maestro en lingúísticas y exégesis del Instituto lingüístico de Canadá. Ha enseñado inglés como lengua extranjera en la preparatoria en Noruega. Nativohablante del noruego, pero también habla inglés, español y griego antiguo, además de actualmente estar aprendiendo el me'phaa de Acatepec en el estado de Guerrero. Allá vive con su esposa Stephanie, trabajando como lingüista. Contribuye con la traducción y el formateo de recursos para la traducción de la Biblia.",
+      "img": "/images/filip.jpg"
+    },
+    {
+      "name": "Stephanie Roberts",
+      "role": "Adquisición lingüística",
+      "bio": "Maestra en lingüísticas y exégesis del Instituto linguistico de Canadá. Cuenta con educación y experiencia en la enseñanza del inglés como lengua extranjera. Ha impartido clases a niños, adolecentes y adultos en México, USA, China e India. Nativo hablante del español e inglés. Mientras vivió en Noruega durante dos años también aprendio el noruego. Actualmente esta aprendiendo me'phaa de Acatepec en el estado de Guerrero junto con su esposo Filip. Contribuye como traductora del inglés al español de recursos para la traducción de la Biblia. Su pasión es capacitar a nativo hablantes para que ellos sean los educadores de su pueblo.",
+      "img": "/images/stephanie.jpg"
+    },
+    {
+      "name": "Juan Quijada",
+      "role": "Fonética",
+      "bio": "Juan Luis Quijada es miembro de la Missão ALEM en Brasil donde se certificó como técnico de Lingüística. Actualmente es professor auxiliar en las materias de Fonética Articulatoria, Métodos de Campo y Sociolinguística en el Curso de Linguística y Misiología (CLM) ofrecido por la Missão ALEM.",
+      "img": "/images/juan.jpg"
+    },
+    {
+      "name": "Amanda Fischer",
+      "role": "Sociolingüística",
+      "bio": "Lingüista con experiencia en interpretación médica español-inglés y en la enseñanza de inglés como lengua extranjera. Realizó una maestría en lingüística y traducción y es licenciada en el estudio de lenguas y culturas del mundo, con especialización en lingüística aplicada. Como educadora, ha impartido varios cursos y talleres en lenguaje y lingüística tanto en línea como en formato híbrido y presencial, en diversos grupos demográficos. Con un ferviente compromiso de servir a las comunidades locales, su pasión es empoderar a cada persona a través del desarrollo del lenguaje, fomentando el florecimiento cultural y la interconexión.",
+      "img": "/images/amanda.jpg"
+    },
+    {
+      "name": "Kevin Penner",
+      "role": "Fonética",
+      "bio": "Kevin es el actual coordinador de lingüística de SIL México, y también trabaja en traducción y consultoría lingüística. Con Licenciatura en Educación y Doctorado en Lingüística de la Universidad de Alberta en Edmonton, Canadá, ha realizado un extenso trabajo de campo sobre el mixteco Ixtayutla desde 2003 hasta el presente, enfocándose principalmente en la fonología prosódica y el tono, así como en la descripción gramatical y las categorías léxicas. Kevin también ha impartido cursos universitarios de lingüística, presentado artículos en conferencias lingüísticas y se desempeñó como revisor por pares para diversas revistas lingüísticas.",
+      "img": "/images/kevin.jpg"
+    },
+    {
+      "name": "Rachael Castello",
+      "role": "Traducción",
+      "bio": "Socia del Instituto Lingüístico de Verano A.C., lingüista y traductora con especialidad en la traducción de los textos de la Biblia hebrea. Realizó una Maestría en Lingüística aplicada con especialización en la traducción de la Biblia y es licenciada en lingüística y estudios internacionales. Ha dirigido y enseñado en cursos de traducción para estudiantes de diversos niveles en la BUAP en Puebla, la UABJO en Oaxaca, y en talleres ofrecidos por el ILV en Oaxaca. Sus intereses académicos incluyen las teorías de comunicación aplicadas a la traducción, y la historia, geografía, arqueología, cultura, lenguas y literatura del antiguo medio oriente.",
+      "img": "/images/rachael.jpg"
+    },
+    {
+      "name": "Carolina González González",
+      "role": "Traducción",
+      "bio": "Orgullosamente nuntajɨ̱yi, hablante nativa de la lengua originaria popoluca de la sierra. Licenciada en Gestión Intercultural para el Desarrollo con orientación en Lenguas por la Universidad Veracruzana Intercultural. Traductora e intérprete certificada por el INALI y CONOCER. Colabora con el Instituto Lingüístico de Verano, creando materiales de lectoescritura y contenidos en materia de traducción. Imparte talleres de lectoescritura en su lengua materna y español. Fue Titular Regional de la Academia Veracruzana de las Lenguas Indígenas, en Veracruz. Ha colaborado con el INALI y el INPI en materias de traducción e interpretación. Ex alumna del Diplomado de Linguistica Aplicada en el año 2018. Su pasión es cultivar su lengua materna popoluca de la sierra.",
+      "img": "/images/carolina.jpg"
+    },
+    {
+      "name": "Arisbe Aguilar Garcés",
+      "role": "Lingüística aplicada en la comunidad",
+      "bio": "Lingüística, Psicóloga y Maestra en Emprendimiento e Innovación social con experiencia en el desarrollo de iniciativa encaminadas al fortalecimiento institucional de ILV como una organización sin fines de lucro, participo con Entrelazando Pueblo A.C. en proyectos comunitarios desarrollando proyectos en apoyo a la educación básica y desarrollo de habilidades. Posee el Curso Internacional en Lingüística, Traducción y Alfabetización (CILTA) y ha sido maestra asistente en la impartición de la materia de Fonética Articulatoria en 2016 y 2018 del DILA.",
+      "img": "/images/arisbe.jpg"
+    },
+    {
+      "name": "Benito Fernández Figueroa",
+      "role": "Lingüística aplicada en la comunidad",
+      "bio": "Lingüista y promotor cultural del idioma mazateco, es autor de varios libros en dicha lengua. Fue ganador del premio sobre obras en lengua indígena “Premio CaSa 2020”. Colabora con la creación de materiales para leer y escuchar el mazateco en muchas plataformas de internet. También es creador de diversos materiales como folletos, audios y videos en pro del fortalecimiento de las lenguas originarias, además de haber sido traductor de la biblia y escritor de diferentes colecciones literarias en mazateco.",
+      "img": "/images/benito.jpg"
+    },
+    {
+      "name": "Gamaliel Astivia Chavez",
+      "role": "Lingüística Aplicada a la comunidad",
+      "bio": "Licenciado en Comunicación Social por la UAM Xochimilco. Egresado del Diplomado Internacional en Lingüística Aplicada 2018 por el ILV A.C. y la BUAP. Colabora como voluntario del ILV A.C. desde 2019, enfocado en la promoción de los materiales producidos en distintas lenguas en México, a través de medios digitales. Ha dirigido diversos entrenamientos enfocados en producir más contenidos digitales como Apps y Libros digitales, desde las lenguas originarias.",
+      "img": "/images/gamaliel.jpg"
+    },
+    {
+      "name": "Margie Hord",
+      "role": "Lingüística aplicada",
+      "bio": "Licenciada en antropología y Maestra en lingüística aplicada, ambos grados por la Universidad de las Américas Puebla (UDLAP). Ha enseñado una variedad de materias a lo largo de casi treinta años en el Diplomado de Lingüística y ha enseñado inglés y traducción en diversas universidades como la UDLAP, UPAEP, BUAP UVP e ITESM Puebla. Adicionalmente es escritora, traductora y correctora de estilo en inglés y español.",
+      "img": "/images/margie.jpg"
+    },
+    {
+      "name": "Christy Hemphill",
+      "role": "Sociolingüística",
+      "bio": "Lingüista y educadora. Sus áreas de interés académico incluyen la adquisición del idioma, sociolingüística, análisis de gramática, teoría de comunicación y traducción, pedagogía, y diseño curricular. Tiene experiencia dando clases en varios niveles, incluyendo niños, adolescentes, universitarios, y adultos así como en programas educativos de la comunidad. Desde 2013 trabaja en Guerrero con el Instituto Lingüístico de Verano, asesorando un programa de desarrollo de me’phaa. Pasó varios años estudiando y analizando el me’phaa de Teocuitlapa y colaborando con miembros de la comunidad para producir recursos escritos y audios para la alfabetización y la preservación cultural así como para dar talleres de capacitación.",
+      "img": "/images/christy.jpg"
+    },
+    {
+      "name": "Stephen Parker",
+      "role": "Lingüística descriptiva",
+      "bio": "Tiene más de 40 años de experiencia como lingüista de campo, investigador y maestro. Vivió entre varios grupos nativos de la selva amazónica del Perú durante 10 años, documentando y analizando sus lenguas. Después de terminar el doctorado en la Universidad de Massachusetts Amherst en el 2002, trabajó en Papúa Nueva Guinea con Mónica, su esposa peruana. Desde el año 2006 radican como familia en la sede de la misión en Texas, donde Esteban es profesor en Dallas International University. Su área de más interés es la teoría fonológica, incluso la sonoridad y la Teoría de Optimidad. Ha publicado 120 artículos y libros académicos.",
+      "img": "/images/steve.jpg"
+    },
+    {
+      "name": "Ryan Klint",
+      "role": "Lingüística Aplicada en la Comunidad",
+      "bio": "Director y instructor de Lingüística Aplicada en la Comunidad.",
+      "img": "/images/ryan.jpg"
+    }
+  ],
+  "adminTeam": "Equipo Administrativo",
+  "adminTeamList": [
+    {
+      "name": "R. David Klint",
+      "role": "Director",
+      "bio": "R. David Klint is a linguist/translator with many years of experience.",
+      "img": "/images/ryan.jpg"
+    },
+    {
+      "name": "Laurel Penner",
+      "role": "Administradora de Logistica",
+      "bio": "Laurel Penner is a linguist/translator with many years of experience.",
+      "img": "/images/blank.jpg"
+    },
+    {
+      "name": "Isabel Klint",
+      "role": "Administradora de Finanzas",
+      "bio": "Isabel Klint is a linguist/translator with many years of experience.",
+      "img": "/images/isabel.jpg"
+    },
+    {
+      "name": "Ana Ibel",
+      "role": "Administradora de Vida de Estudiantes",
+      "bio": "Ana Ibel is a linguist/translator with many years of experience.",
+      "img": "/images/blank.jpg"
+    }
+  ],
+  "registrationInfo": "Puedes registrarte dando click aquí:\n[Formato de registro](https://docs.google.com/forms/d/e/1FAIpQLScMKNvrrbjDeAX0HFPbHGjoAEWvgqMLgufB-zkDqPH2-_IcQQ/closedform)\nLas instrucciones y continuidad del proceso de ingreso se darán en el correo electrónico con el que te registraste.",
+  "paymentInfo": "Banco: HSBC\nNombre: BUAP VIEP ACT-ACADEM.\nCuenta: 4070369335\nClabe Interbancaria: 021650040703693352\nReferencia: Inscripción DILA 2024\nImportante: en caso de hacer una transferencia digital en Referencia deberá colocarse: Inscripción DILA 2024 y el nombre completo de la o el estudiante, si es un pago en banco, el comprobante debe tener escrito con tinta azul el nombre completo de la o el estudiante. Una vez hecho el depósito o transferencia es necesario enviar el recibo por correo electrónico con el asunto: \"Inscripción DILA 2024\" a las direcciones que indicaremos, con el nombre completo de la persona a inscribirse. Se tomará este nombre para la elaboración del Diploma una vez aprobado. En caso de requerir factura, es necesario indicarlo al momento de enviar el comprobante de pago.\n\nINVERSIÓN: $5000.00 MXN (cinco mil pesos mexicanos)\nIncluye la inscripción al diplomado, materiales para el desarrollo de las actividades, desayuno diario y diploma (al cumplir con los requisitos para su obtención).",
+  "courseCatalog": "Catálogo de Cursos",
+  "pueblaCityDescription": "Descripción de la Ciudad de Puebla",
+  "buapDescription": "Descripción de la BUAP",
+  "ilvDescription": "Descripción del ILV"
+}
