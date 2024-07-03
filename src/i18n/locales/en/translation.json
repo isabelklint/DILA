@@ -1,7 +1,51 @@
-{
+{  
   "home": "Home",
   "welcome": "Welcome to DILA",
+  "homeDetails": {
+      "title": "160 TOTAL HOURS OF FACE-TO-FACE DIPLOMA",
+      "sessionDetails": "Sessions from Monday to Friday from 8:00 to 17:00 hrs. June 24 to July 19, 2024",
+      "description": "The International Diploma in Applied Linguistics (DILA 2024) consists of four modules with a curricular value of 160 hours.",
+      "compulsorySubjects": "It includes two compulsory subjects:",
+      "subjectsList": [
+        "Articulatory Phonetics",
+        "Descriptive Linguistics"
+      ],
+      "electivesTitle": "Four electives, from which each student selects two to take:",
+      "electivesList": [
+        "Sociolinguistics",
+        "Translation Principles",
+        "Language Documentation",
+        "Language Acquisition"
+      ],
+      "quality": "The Diploma provides high-quality international scientific-academic content oriented towards the native languages of Mexico."
+    },
   "about": "About",
+  "aboutDetails": {
+    "background": {
+      "heading": "Background",
+      "details": "The diploma program began as a training workshop in response to a growing interest in the indigenous groups of the country, as well as a desire for exchange with people from other cultures and a wish to serve the linguistically isolated. Therefore, the Summer Institute of Linguistics, in conjunction with the Universidad Madero, offered the first training workshop in 1991 on the basic principles of descriptive linguistics, with a strong emphasis on effective learning of indigenous languages and the art of cultural empathy. In 1997, this workshop was elevated to a diploma level, lasting a total of 280 hours, divided into two summers of classes. In 2003, the course was restructured to one summer of 140 hours. In 2006, the diploma changed its venue from Universidad Madero to Universidad Autónoma de San Luis Potosí and extended its duration to 160 hours in one summer. Since 2009, through a specific framework between the Summer Institute of Linguistics A.C. and UASLP, the diploma has been conducted through an administrative and academic alliance between the two institutions. In 2017, the diploma was restructured and in collaboration with the Benemérita Universidad Autónoma de Puebla, it became the International Diploma in Applied Linguistics, offering training aligned with cutting-edge international theoretical and methodological frameworks for world-class education. In July 2018, the International Diploma in Applied Linguistics was held for the first time at the Benemérita Autónoma Universidad de Puebla. Fifty-three students attended, including twenty-four from indigenous language communities in Mexico."
+    },
+    "targetAudience": {
+      "heading": "Target Audience",
+      "details": "The diploma is aimed at university students and other individuals interested in studying and understanding languages and their social contexts according to the principles of applied linguistics. This includes native speakers of indigenous languages of Mexico, Spanish speakers, and/or teachers of bilingual schools or foreign language teachers."
+    },
+    "academicRequirements": {
+      "heading": "Academic Requirements",
+      "details": "Recommended: 4 semesters of university studies. Minimum: High school studies or a letter expressing the necessity to take it for work-related reasons."
+    },
+    "cost": {
+      "heading": "Cost",
+      "details": "MXN$ 5,000.00 (Includes daily breakfast from Monday to Friday). Additional travel and accommodation expenses during the course are the responsibility of each student."
+    },
+    "evaluationMechanisms": {
+      "heading": "Evaluation Mechanisms",
+      "details": "The evaluation of graduates aims to be carried out through the following parameters: a. Presentation of individual and group work. b. If applicable, exams on the topics covered in each of the diploma modules. A minimum grade of 8 and attendance at 80% of the in-person classes in each module are required to receive the diploma."
+    },
+    "recentHistory": {
+      "heading": "Recent History",
+      "details": "The International Diploma in Applied Linguistics (DILA) was postponed in 2020 due to the pandemic. Although we hoped to offer our in-person DILA in 2021, it was not possible. However, thanks to our agreements between the Benemérita Autónoma Universidad de Puebla, the Summer Institute of Linguistics, and the Intercultural University of the State of Puebla, and the commitment of our faculty, a two-week seminar was offered in July 2021, where the academic offer was directed towards a Seminar (SILA) in which we offered international quality academic content and scientific debate. The conferences and workshops covered topics that generated interest among participants in applied linguistics to native languages, motivating students who, in many cases, participated in person at DILA 2022, which was a full-time, four-week, 160-hour in-person course, now offered again in 2024. The International Seminar in Applied Linguistics (SILA 2021) was a virtual space for linguistic training through a series of live conferences and workshops on a digital platform, with the following topics applied to the native languages of Mexico: articulatory phonetics, descriptive linguistics, sociolinguistics, principles of translation, language documentation, and second language acquisition, providing international quality scientific-academic content."
+    }
+  },
   "programDetails": "Program Details",
   "programDetailsSections": {
     "description": "Some program details",
@@ -35,18 +79,6 @@
       "title": "Contact",
       "contactDetails": "Some name address email"
     },
-  "aboutInfo": {
-    "heading": "160 TOTAL HOURS OF FACE-TO-FACE DIPLOMA",
-    "sessionDetails": "Sessions from Monday to Friday from 8:00 to 17:00 hrs. June 24 to July 19, 2024",
-    "description": "The International Diploma in Applied Linguistics (DILA 2024) consists of four modules with a curricular value of 160 hours.",
-    "compulsorySubjects": "It includes two compulsory subjects:",
-    "subjectsList": [
-      "Articulatory Phonetics",
-      "Descriptive Linguistics"
-    ],
-    "electives": "Four electives: Sociolinguistics, Translation Principles, Language Documentation, and Language Acquisition, from which each student selects two to take.",
-    "quality": "The Diploma provides high-quality international scientific-academic content oriented towards the native languages of Mexico."
-  },
   "docents": "Docents",
   "docentsList": [
     {
@@ -156,9 +188,15 @@
   "adminTeamList": [
     {
       "name": "R. David Klint",
-      "role": "Director",
+      "role": "Co-Director",
       "bio": "R. David Klint is a linguist/translator with many years of experience.",
       "img": "/images/ryan.jpg"
+    },
+    {
+      "name": "Ivan Deance",
+      "role": "Co-Director",
+      "bio": "Ivan Deance is a professor with many years of experience.",
+      "img": "/images/blank.jpg"
     },
     {
       "name": "Laurel Penner",
@@ -181,8 +219,42 @@
   ],
   "registrationInfo": "You can register by clicking here:\n[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLScMKNvrrbjDeAX0HFPbHGjoAEWvgqMLgufB-zkDqPH2-_IcQQ/closedform)\nInstructions and further process details will be sent to the email address you used to register.",
   "paymentInfo": "Bank: HSBC\nName: BUAP VIEP ACT-ACADEM.\nAccount: 4070369335\nInterbank CLABE: 021650040703693352\nReference: Inscripción DILA 2024\nImportant: If making a digital transfer, in the Reference field include: Inscripción DILA 2024 and the full name of the student. If paying at the bank, the receipt must have the full name of the student written in blue ink. Once the deposit or transfer is made, it is necessary to send the receipt by email with the subject: \"Inscripción DILA 2024\" to the addresses we will provide, with the full name of the person to be registered. This name will be used for the Diploma once approved. If an invoice is required, it must be indicated when sending the payment receipt.\n\nINVESTMENT: $5000.00 MXN (five thousand Mexican pesos)\nIncludes registration for the diploma, materials for the development of activities, daily breakfast, and diploma (upon meeting the requirements for its issuance).",
-  "courseCatalog": "Course Catalog",
+    "courseCatalog": "Course Catalog",
+    "courseCatalogDetails": {
+      "title": "Curriculum Structure",
+      "description": "In the International Diploma in Applied Linguistics - BUAP 2024, a four-module course will be offered. All students will take modules 1 and 2.",
+      "modules": {
+        "module1": {
+          "title": "Introduction to Articulatory Phonetics",
+          "description": "Introduction to articulatory phonetics and essential techniques through a good understanding of the International Phonetic Alphabet. The course contains a lot of practice in recognizing and producing fundamental speech sounds, which helps with good pronunciation in learning a language and decoding the sounds of any language in the world (40 hours)."
+        },
+        "module2": {
+          "title": "Introduction to Descriptive Linguistics",
+          "description": "Introduction to the basic topics of linguistics to analyze both Indo-European and non-Indo-European languages (50 hours). This module includes three focuses: Semantics: Description of the concepts encoded in the lexicon and their compilation in dictionaries. Grammar: Description of the three structural levels of grammar, which are morphology, syntax, and discourse. Phonology: Description of sound systems and their relation to an orthographic alphabet."
+        },
+        "module3": {
+          "title": "Introduction to Sociolinguistics",
+          "description": "Covers topics relevant to the study of languages at social and cultural levels, to understand the factors that enhance or diminish the vitality of a language, such as language policy and planning, dialectal variation, discourse, communication and identity, diglossia, bilingual education, and orthography normalization (35 hours)."
+        },
+        "module4": {
+          "title": "Applied Linguistics in the Community",
+          "description": "Covers the linguistic documentation of native languages and the use of the obtained data to open new spaces for language use. Additionally, it presents programs for data analysis and publication. It also includes orientation for community linguistic development where participants are the active agents in promoting the language (35 hours)."
+        },
+        "module5": {
+          "title": "Principles of Translation",
+          "description": "Introduction to the basic principles of translation. It covers the factors that influence the nature and accuracy of a translation, whether it is an informal document, a government law, or a religious text. There will be a lot of practice with the principles (35 hours). Requirement: Must speak two languages."
+        },
+        "module6": {
+          "title": "Acquisition of Another Language",
+          "description": "Often, adults need to learn another language. If you plan to learn a language without a written form, or a language that has not been formally documented, how would you proceed? This module is an introduction to theories of second language acquisition and allows you to test what you are learning in language learning groups (35 hours)."
+        }
+      }
+    },
   "pueblaCityDescription": "Description of the City of Puebla",
+  "pueblaCityDetails": {
+      "heading": "Welcome to Puebla City: Your Home for the Summer Program!",
+      "content": "Puebla City, a UNESCO World Heritage site, is a vibrant and historical city located in central Mexico. Known for its rich cultural heritage, stunning architecture, and delicious cuisine, Puebla is an ideal destination for students attending the International Diploma in Applied Linguistics.\n\nGetting Here\nThe closest airport is Puebla's Hermanos Serdán International Airport (PBC), which has direct flights from several major cities. Alternatively, Mexico City’s Benito Juárez International Airport (MEX) is about a two-hour drive away, with frequent shuttle services and buses connecting to Puebla.\n\nPublic Transport\nPuebla offers a reliable and affordable public transportation system, including buses, taxis, and the RUTA (Red Urbana de Transporte Articulado) bus rapid transit system. For those who prefer, ride-sharing services like Uber and Didi are also available.\n\nSafety\nPuebla is considered one of the safest cities in Mexico. However, as with any travel, it's essential to stay aware of your surroundings, especially at night. The city center and tourist areas are generally safe and well-patrolled.\n\nTourist Attractions\nPuebla is a city full of attractions. Don’t miss the stunning Puebla Cathedral, the historic forts of Loreto and Guadalupe, and the colorful Parian Market for local crafts. For a taste of local culture, visit the Amparo Museum and the International Museum of the Baroque. Nature lovers will enjoy the nearby Popocatépetl and Iztaccíhuatl volcanoes.\n\nPlaces to Stay\nPuebla offers a range of accommodation options to suit all budgets. From luxurious hotels like the Rosewood Puebla and La Purificadora to budget-friendly hostels and guesthouses, there’s something for everyone. Many accommodations are conveniently located near the city center and the university.\n\nDining and Cuisine\nPuebla is famous for its cuisine, including the iconic mole poblano, chalupas, and chiles en nogada. Be sure to explore local eateries and street food vendors to get a taste of the authentic flavors of Puebla.\n\nWeather\nPuebla enjoys a mild climate year-round. Summers are warm with occasional rain showers, so bringing a light jacket and an umbrella is a good idea.\n\nWe look forward to welcoming you to Puebla for an unforgettable summer filled with learning, cultural exchange, and exploration. Prepare to immerse yourself in a city that perfectly blends tradition and modernity, making it the ideal backdrop for your studies and adventures!"
+    },
   "buapDescription": "Description of the BUAP",
   "ilvDescription": "Description of the ILV",
     "studentRequirements": {
