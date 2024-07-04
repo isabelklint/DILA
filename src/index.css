@@ -4,12 +4,10 @@
 @tailwind components;
 @tailwind utilities;
 
-
 html {
   font-family: 'Source Sans Pro', sans-serif;
 }
 
 body {
-  background-color: #1A2534;
-  color: white; /* Set default text color to white */
+  @apply bg-custom-blue text-white;
 }
