@@ -15,7 +15,7 @@ const Header = () => {
           <img src={dilaLogoTransparente} alt="Dila Logo" className="h-10 mb-4 md:mb-0" />
           <img src={affiliateLogos} alt="Affiliate Logos" className="h-10" />
         </div>
-        <div className="flex flex-row flex-wrap justify-center md:flex-row items-center md:space-x-4 text-uppercase">
+        <div className="flex flex-col md:flex-row items-center md:justify-end md:space-x-4 text-uppercase w-full md:w-auto">
           <Link to="/" className="text-[#1A2534] hover:text-blue-500 mb-2 md:mb-0 px-2">{t('home').toUpperCase()}</Link>
           <Link to="/academics" className="text-[#1A2534] hover:text-blue-500 mb-2 md:mb-0 px-2">{t('academics').toUpperCase()}</Link>
           <Link to="/registration" className="text-[#1A2534] hover:text-blue-500 mb-2 md:mb-0 px-2">{t('register').toUpperCase()}</Link>
