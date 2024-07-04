@@ -22,7 +22,7 @@ const Header = () => {
           <Link to="/instructors" className="text-[#1A2534] hover:text-blue-500 mb-2 md:mb-0">{t('instructors').toUpperCase()}</Link>
           <Link to="/history" className="text-[#1A2534] hover:text-blue-500 mb-2 md:mb-0">{t('about').toUpperCase()}</Link>
           <Link to="/alumni" className="text-[#1A2534] hover:text-blue-500 mb-2 md:mb-0">{t('alumni').toUpperCase()}</Link>
-          <Link to="/contact" className="text-[#1A2534] hover:text-blue-500 mb-2 md:mb-0">{t('contact').toUpperCase()}</Link>
+          <Link to="/contact" className="text-[#1A2534] hover:text-blue-500 mb-2 md:mb-0">{t('contact.title').toUpperCase()}</Link>
           <LanguageSwitcher />
         </div>
       </nav>
