@@ -11,11 +11,11 @@ const Header = () => {
   return (
     <header className="bg-white py-4 text-[#1A2534] shadow-md">
       <nav className="flex flex-col md:flex-row justify-between items-center max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex items-center space-x-4 flex-shrink-0 mb-4 md:mb-0">
+        <div className="flex flex-col items-center md:flex-row md:space-x-4 flex-shrink-0 mb-4 md:mb-0">
           <img src={dilaLogoTransparente} alt="Dila Logo" className="h-10 mb-4 md:mb-0" />
-          <img src={affiliateLogos} alt="Affiliate Logos" className="h-10 mb-4 md:mb-0" />
+          <img src={affiliateLogos} alt="Affiliate Logos" className="h-10" />
         </div>
-        <div className="flex flex-col md:flex-row items-center md:space-x-4 text-uppercase">
+        <div className="flex flex-row flex-wrap justify-center md:flex-row items-center md:space-x-4 text-uppercase">
           <Link to="/" className="text-[#1A2534] hover:text-blue-500 mb-2 md:mb-0">{t('home').toUpperCase()}</Link>
           <Link to="/academics" className="text-[#1A2534] hover:text-blue-500 mb-2 md:mb-0">{t('academics').toUpperCase()}</Link>
           <Link to="/registration" className="text-[#1A2534] hover:text-blue-500 mb-2 md:mb-0">{t('register').toUpperCase()}</Link>
