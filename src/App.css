@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+nav .relative:hover .absolute,
+nav .relative:focus-within .absolute {
+  display: block;
+}
+
+nav .relative .absolute {
+  display: none;
+}

@@ -1,24 +1,24 @@
-{  
+{
   "home": "Home",
   "welcome": "Welcome to DILA",
   "homeDetails": {
-      "title": "160 TOTAL HOURS OF FACE-TO-FACE DIPLOMA",
-      "sessionDetails": "Sessions from Monday to Friday from 8:00 to 17:00 hrs. June 24 to July 19, 2024",
-      "description": "The International Diploma in Applied Linguistics (DILA 2024) consists of four modules with a curricular value of 160 hours.",
-      "compulsorySubjects": "It includes two compulsory subjects:",
-      "subjectsList": [
-        "Articulatory Phonetics",
-        "Descriptive Linguistics"
-      ],
-      "electivesTitle": "Four electives, from which each student selects two to take:",
-      "electivesList": [
-        "Sociolinguistics",
-        "Translation Principles",
-        "Language Documentation",
-        "Language Acquisition"
-      ],
-      "quality": "The Diploma provides high-quality international scientific-academic content oriented towards the native languages of Mexico."
-    },
+    "title": "160 TOTAL HOURS OF FACE-TO-FACE DIPLOMA",
+    "sessionDetails": "Sessions from Monday to Friday from 8:00 to 17:00 hrs. June 24 to July 19, 2024",
+    "description": "The International Diploma in Applied Linguistics (DILA 2024) consists of four modules with a curricular value of 160 hours.",
+    "compulsorySubjects": "It includes two compulsory subjects:",
+    "subjectsList": [
+      "Articulatory Phonetics",
+      "Descriptive Linguistics"
+    ],
+    "electivesTitle": "Four electives, from which each student selects two to take:",
+    "electivesList": [
+      "Sociolinguistics",
+      "Translation Principles",
+      "Language Documentation",
+      "Language Acquisition"
+    ],
+    "quality": "The Diploma provides high-quality international scientific-academic content oriented towards the native languages of Mexico."
+  },
   "about": "About",
   "aboutDetails": {
     "background": {
@@ -57,227 +57,71 @@
     "ilvDescription": "ILV A.C. Description"
   },
   "register": "Register",
-    "registerInfo": {
-      "title": "Register",
-      "registrationLinkText": "Registration Form",
-      "paymentInfoTitle": "Payment Information",
-      "paymentDetails": {
-        "bank": "Bank: HSBC",
-        "name": "Name: BUAP VIEP ACT-ACADEM.",
-        "account": "Account: 4070369335",
-        "interbankClabe": "Interbank CLABE: 021650040703693352",
-        "reference": "Reference: Inscripción DILA 2024",
-        "importantNote": "Important: If making a digital transfer, in the Reference field include: Inscripción DILA 2024 and the full name of the student. If paying at the bank, the receipt must have the full name of the student written in blue ink.",
-        "instructions": "Once the deposit or transfer is made, it is necessary to send the receipt by email with the subject: \"Inscripción DILA 2024\" to the addresses we will provide, with the full name of the person to be registered. This name will be used for the Diploma once approved.",
-        "invoiceNote": "If an invoice is required, it must be indicated when sending the payment receipt.",
-        "investment": "INVESTMENT: $5000.00 MXN (five thousand Mexican pesos)",
-        "includes": "Includes registration for the diploma, materials for activities, daily breakfast, and diploma (upon meeting the requirements for its issuance)."
-      }
-    },
-    "contact": "Contact Us",
-    "contactInfo": {
-      "title": "Contact",
-      "contactDetails": "Some name address email"
-    },
+  "registerInfo": {
+    "title": "Register",
+    "registrationLinkText": "Registration Form",
+    "paymentInfoTitle": "Payment Information",
+    "paymentDetails": {
+      "bank": "Bank: HSBC",
+      "name": "Name: BUAP VIEP ACT-ACADEM.",
+      "account": "Account: 4070369335",
+      "interbankClabe": "Interbank CLABE: 021650040703693352",
+      "reference": "Reference: Inscripción DILA 2024",
+      "importantNote": "Important: If making a digital transfer, in the Reference field include: Inscripción DILA 2024 and the full name of the student. If paying at the bank, the receipt must have the full name of the student written in blue ink.",
+      "instructions": "Once the deposit or transfer is made, it is necessary to send the receipt by email with the subject: \"Inscripción DILA 2024\" to the addresses we will provide, with the full name of the person to be registered. This name will be used for the Diploma once approved.",
+      "invoiceNote": "If an invoice is required, it must be indicated when sending the payment receipt.",
+      "investment": "INVESTMENT: $5000.00 MXN (five thousand Mexican pesos)",
+      "includes": "Includes registration for the diploma, materials for activities, daily breakfast, and diploma (upon meeting the requirements for its issuance)."
+    }
+  },
+  "contact": "Contact Us",
+  "contactInfo": {
+    "title": "Contact",
+    "contactDetails": "Some name, address, email"
+  },
+  "community": "Community",
+  "students": "Students",
   "docents": "Docents",
-  "docentsList": [
-    {
-      "name": "Victoria Infante",
-      "role": "Descriptive Linguistics",
-      "bio": "Victoria Infante is a member of Missão ALEM in Brazil where she was certified as a Linguistics technician. She is currently the director of the Courses Department in the same program. Since 2018 she has taught Phonological Analysis, Grammatical Analysis, and related subjects in the Linguistics and Missiology Course (CLM) offered by Missão ALEM. She is currently completing her Master's in Linguistics and her research focus is on the Ninam language of Alto Mucajaí, belonging to the Yanomami group.",
-      "img": "/images/victoria.jpg"
+  "alumni": "Alumni",
+  "courses": "Courses",
+  "coursesDetails": {
+    "title": "Curriculum Structure",
+    "description": "In the International Diploma in Applied Linguistics - BUAP 2024, a four-module course will be offered. All students will take modules 1 and 2. Students take 2 of 4 elective modules."
+  },
+  "coursesList": {
+    "module1": {
+      "title": "Introduction to Articulatory Phonetics",
+      "description": "Introduction to articulatory phonetics and essential techniques through a good understanding of the International Phonetic Alphabet. The course contains a lot of practice in recognizing and producing fundamental speech sounds, which helps with good pronunciation in learning a language and decoding the sounds of any language in the world (40 hours)."
     },
-    {
-      "name": "Ricky Kroeger",
-      "role": "Phonetics",
-      "bio": "Linguist with the Summer Institute of Linguistics studying the Zapotec of San Pablo Güilá in Valles Centrales, Oaxaca from 2018 to the present. He has a degree in linguistics from the University of California, San Diego and is finishing his master's in applied linguistics at Dallas International University. His interests include Zapotec and Otomanguean languages, historical linguistics, and morphology. He is writing his thesis on the historical relationship between the Popolocan and Zapotecan families.",
-      "img": "/images/ricky.jpg"
+    "module2": {
+      "title": "Introduction to Descriptive Linguistics",
+      "description": "Introduction to the basic topics of linguistics to analyze both Indo-European and non-Indo-European languages (50 hours). This module includes three focuses: Semantics: Description of the concepts encoded in the lexicon and their compilation in dictionaries. Grammar: Description of the three structural levels of grammar, which are morphology, syntax, and discourse. Phonology: Description of sound systems and their relation to an orthographic alphabet."
     },
-    {
-      "name": "Reyna Verónica Quintanar Najera",
-      "role": "Descriptive Linguistics",
-      "bio": "Bachelor and Master in Linguistics, Dance Therapist with experience in contemporary dance, and in the final semester of a Doctorate in Humanities. Experience in fieldwork and researcher of Triqui from Miguel Alemán village, originally from Copala Triqui with publications on the language. Academic stay in Spain. She has led community days and rural missions. She has taught reading comprehension workshops, linguistics classes, writing, scientific thinking, body expression, and arts. In national missionary training, she has given contemporary dance workshops at a beginner level. Experience with children, adolescents, young people, and adults. Currently, she serves in the dance and missions ministry as a leader in her local church along with her husband.",
-      "img": "/images/reyna.jpg"
+    "module3": {
+      "title": "Introduction to Sociolinguistics",
+      "description": "Covers topics relevant to the study of languages at social and cultural levels, to understand the factors that enhance or diminish the vitality of a language, such as language policy and planning, dialectal variation, discourse, communication and identity, diglossia, bilingual education, and orthography normalization (35 hours)."
     },
-    {
-      "name": "Filip Dale",
-      "role": "Language Acquisition",
-      "bio": "Master in Linguistics and Exegesis from the Canadian Institute of Linguistics. He has taught English as a foreign language in high school in Norway. Native speaker of Norwegian, but also speaks English, Spanish, and Ancient Greek, as well as currently learning Me'phaa from Acatepec in the state of Guerrero. He lives there with his wife Stephanie, working as a linguist. He contributes to the translation and formatting of resources for Bible translation.",
-      "img": "/images/filip.jpg"
+    "module4": {
+      "title": "Applied Linguistics in the Community",
+      "description": "Covers the linguistic documentation of native languages and the use of the obtained data to open new spaces for language use. Additionally, it presents programs for data analysis and publication. It also includes orientation for community linguistic development where participants are the active agents in promoting the language (35 hours)."
     },
-    {
-      "name": "Stephanie Roberts",
-      "role": "Language Acquisition",
-      "bio": "Master in Linguistics and Exegesis from the Canadian Institute of Linguistics. She has education and experience in teaching English as a foreign language. She has taught children, adolescents, and adults in Mexico, the USA, China, and India. Native speaker of Spanish and English. While living in Norway for two years, she also learned Norwegian. She is currently learning Me'phaa from Acatepec in the state of Guerrero with her husband Filip. She contributes as a translator from English to Spanish of resources for Bible translation. Her passion is to train native speakers so that they become the educators of their people.",
-      "img": "/images/stephanie.jpg"
+    "module5": {
+      "title": "Principles of Translation",
+      "description": "Introduction to the basic principles of translation. It covers the factors that influence the nature and accuracy of a translation, whether it is an informal document, a government law, or a religious text. There will be a lot of practice with the principles (35 hours). Requirement: Must speak two languages."
     },
-    {
-      "name": "Juan Quijada",
-      "role": "Phonetics",
-      "bio": "Juan Luis Quijada is a member of Missão ALEM in Brazil where he was certified as a Linguistics technician. He is currently an assistant professor in the subjects of Articulatory Phonetics, Field Methods, and Sociolinguistics in the Linguistics and Missiology Course (CLM) offered by Missão ALEM.",
-      "img": "/images/juan.jpg"
-    },
-    {
-      "name": "Amanda Fischer",
-      "role": "Sociolinguistics",
-      "bio": "Linguist with experience in medical interpretation Spanish-English and teaching English as a foreign language. She completed a master's degree in linguistics and translation and has a bachelor's degree in the study of world languages and cultures, with a specialization in applied linguistics. As an educator, she has taught various courses and workshops in language and linguistics both online and in hybrid and face-to-face formats, in diverse demographic groups. With a fervent commitment to serving local communities, her passion is to empower each person through language development, fostering cultural flourishing and interconnection.",
-      "img": "/images/amanda.jpg"
-    },
-    {
-      "name": "Kevin Penner",
-      "role": "Phonetics",
-      "bio": "Kevin is the current coordinator of linguistics at SIL Mexico, and also works in translation and linguistic consulting. With a degree in Education and a PhD in Linguistics from the University of Alberta in Edmonton, Canada, he has done extensive fieldwork on Ixtayutla Mixtec since 2003 to the present, focusing mainly on prosodic phonology and tone, as well as grammatical description and lexical categories. Kevin has also taught university courses in linguistics, presented papers at linguistic conferences, and served as a peer reviewer for various linguistic journals.",
-      "img": "/images/kevin.jpg"
-    },
-    {
-      "name": "Rachael Castello",
-      "role": "Translation",
-      "bio": "Associate of the Summer Institute of Linguistics A.C., linguist and translator specializing in the translation of Hebrew Bible texts. She completed a Master's in Applied Linguistics with a specialization in Bible translation and has a bachelor's degree in linguistics and international studies. She has directed and taught translation courses for students of various levels at BUAP in Puebla, UABJO in Oaxaca, and workshops offered by SIL in Oaxaca. Her academic interests include communication theories applied to translation, and the history, geography, archaeology, culture, languages, and literature of the ancient Near East.",
-      "img": "/images/rachael.jpg"
-    },
-    {
-      "name": "Carolina González González",
-      "role": "Translation",
-      "bio": "Proudly Nuntajɨ̱yi, native speaker of the native language Popoluca of the Sierra. She has a degree in Intercultural Management for Development with a focus on Languages from the Intercultural University of Veracruz. Certified translator and interpreter by INALI and CONOCER. She collaborates with the Summer Institute of Linguistics, creating literacy materials and content in the field of translation. She conducts literacy workshops in her mother tongue and Spanish. She was the Regional Head of the Veracruz Academy of Indigenous Languages. She has collaborated with INALI and INPI in matters of translation and interpretation. Former student of the Applied Linguistics Diploma in 2018. Her passion is to cultivate her mother tongue Popoluca of the Sierra.",
-      "img": "/images/carolina.jpg"
-    },
-    {
-      "name": "Arisbe Aguilar Garcés",
-      "role": "Applied Linguistics in the Community",
-      "bio": "Linguist, Psychologist, and Master in Entrepreneurship and Social Innovation with experience in developing initiatives aimed at strengthening the institutional framework of ILV as a non-profit organization. She participated with Entrelazando Pueblo A.C. in community projects developing projects in support of basic education and skill development. She holds the International Course in Linguistics, Translation, and Literacy (CILTA) and has been an assistant teacher in the teaching of Articulatory Phonetics in 2016 and 2018 of DILA.",
-      "img": "/images/arisbe.jpg"
-    },
-    {
-      "name": "Benito Fernández Figueroa",
-      "role": "Applied Linguistics in the Community",
-      "bio": "Linguist and cultural promoter of the Mazateco language, author of several books in that language. He won the award for works in indigenous language “Premio CaSa 2020”. He collaborates in the creation of materials to read and listen to Mazateco on many internet platforms. He is also the creator of various materials such as brochures, audios, and videos in favor of the strengthening of native languages, as well as being a Bible translator and writer of different literary collections in Mazateco.",
-      "img": "/images/benito.jpg"
-    },
-    {
-      "name": "Gamaliel Astivia Chavez",
-      "role": "Applied Linguistics in the Community",
-      "bio": "Bachelor in Social Communication from UAM Xochimilco. Graduate of the International Diploma in Applied Linguistics 2018 by ILV A.C. and BUAP. He has been a volunteer for ILV A.C. since 2019, focused on promoting materials produced in various languages in Mexico, through digital media. He has led various training focused on producing more digital content such as Apps and digital books, from native languages.",
-      "img": "/images/gamaliel.jpg"
-    },
-    {
-      "name": "Margie Hord",
-      "role": "Applied Linguistics",
-      "bio": "Bachelor in Anthropology and Master in Applied Linguistics, both degrees from the University of the Americas Puebla (UDLAP). She has taught a variety of subjects for almost thirty years in the Linguistics Diploma and has taught English and translation at various universities such as UDLAP, UPAEP, BUAP, UVP, and ITESM Puebla. Additionally, she is a writer, translator, and editor in English and Spanish.",
-      "img": "/images/margie.jpg"
-    },
-    {
-      "name": "Christy Hemphill",
-      "role": "Sociolinguistics",
-      "bio": "Linguist and educator. Her areas of academic interest include language acquisition, sociolinguistics, grammar analysis, communication theory and translation, pedagogy, and curriculum design. She has experience teaching at various levels, including children, adolescents, university students, and adults as well as in community educational programs. Since 2013 she has been working in Guerrero with the Summer Institute of Linguistics, advising a development program in Me’phaa. She spent several years studying and analyzing the Me’phaa of Teocuitlapa and collaborating with community members to produce written and audio resources for literacy and cultural preservation as well as giving training workshops.",
-      "img": "/images/christy.jpg"
-    },
-    {
-      "name": "Stephen Parker",
-      "role": "Descriptive Linguistics",
-      "bio": "He has over 40 years of experience as a field linguist, researcher, and teacher. He lived among several native groups in the Peruvian Amazon jungle for 10 years, documenting and analyzing their languages. After completing his PhD at the University of Massachusetts Amherst in 2002, he worked in Papua New Guinea with his Peruvian wife Monica. Since 2006 they have been living as a family at the mission headquarters in Texas, where Esteban is a professor at Dallas International University. His main area of interest is phonological theory, including sonority and Optimality Theory. He has published 120 academic articles and books.",
-      "img": "/images/steve.jpg"
-    },
-    {
-      "name": "R. David Klint",
-      "role": "Applied Linguistics in the Community",
-      "bio": "Director and instructor of Applied Linguistics in the Community.",
-      "img": "/images/ryan.jpg"
+    "module6": {
+      "title": "Acquisition of Another Language",
+      "description": "Often, adults need to learn another language. If you plan to learn a language without a written form, or a language that has not been formally documented, how would you proceed? This module is an introduction to theories of second language acquisition and allows you to test what you are learning in language learning groups (35 hours)."
     }
-  ],
-  "adminTeam": "Admin Team",
-  "adminTeamList": [
-    {
-      "name": "R. David Klint",
-      "role": "Co-Director",
-      "bio": "R. David Klint is a linguist/translator with many years of experience.",
-      "img": "/images/ryan.jpg"
-    },
-    {
-      "name": "Ivan Deance",
-      "role": "Co-Director",
-      "bio": "Ivan Deance is a professor with many years of experience.",
-      "img": "/images/blank.jpg"
-    },
-    {
-      "name": "Laurel Penner",
-      "role": "Logistics Administrator",
-      "bio": "Laurel Penner is a linguist/translator with many years of experience.",
-      "img": "/images/blank.jpg"
-    },
-    {
-      "name": "Isabel Klint",
-      "role": "Finance Administrator",
-      "bio": "Isabel Klint is a linguist/translator with many years of experience.",
-      "img": "/images/isabel.jpg"
-    },
-    {
-      "name": "Ana Ibel",
-      "role": "Student Life Administrator",
-      "bio": "Ana Ibel is a linguist/translator with many years of experience.",
-      "img": "/images/blank.jpg"
-    }
-  ],
-  "registrationInfo": "You can register by clicking here:\n[Registration Form](https://docs.google.com/forms/d/e/1FAIpQLScMKNvrrbjDeAX0HFPbHGjoAEWvgqMLgufB-zkDqPH2-_IcQQ/closedform)\nInstructions and further process details will be sent to the email address you used to register.",
-  "paymentInfo": "Bank: HSBC\nName: BUAP VIEP ACT-ACADEM.\nAccount: 4070369335\nInterbank CLABE: 021650040703693352\nReference: Inscripción DILA 2024\nImportant: If making a digital transfer, in the Reference field include: Inscripción DILA 2024 and the full name of the student. If paying at the bank, the receipt must have the full name of the student written in blue ink. Once the deposit or transfer is made, it is necessary to send the receipt by email with the subject: \"Inscripción DILA 2024\" to the addresses we will provide, with the full name of the person to be registered. This name will be used for the Diploma once approved. If an invoice is required, it must be indicated when sending the payment receipt.\n\nINVESTMENT: $5000.00 MXN (five thousand Mexican pesos)\nIncludes registration for the diploma, materials for the development of activities, daily breakfast, and diploma (upon meeting the requirements for its issuance).",
-    "courseCatalog": "Course Catalog",
-    "courseCatalogDetails": {
-      "title": "Curriculum Structure",
-      "description": "In the International Diploma in Applied Linguistics - BUAP 2024, a four-module course will be offered. All students will take modules 1 and 2.",
-      "modules": {
-        "module1": {
-          "title": "Introduction to Articulatory Phonetics",
-          "description": "Introduction to articulatory phonetics and essential techniques through a good understanding of the International Phonetic Alphabet. The course contains a lot of practice in recognizing and producing fundamental speech sounds, which helps with good pronunciation in learning a language and decoding the sounds of any language in the world (40 hours)."
-        },
-        "module2": {
-          "title": "Introduction to Descriptive Linguistics",
-          "description": "Introduction to the basic topics of linguistics to analyze both Indo-European and non-Indo-European languages (50 hours). This module includes three focuses: Semantics: Description of the concepts encoded in the lexicon and their compilation in dictionaries. Grammar: Description of the three structural levels of grammar, which are morphology, syntax, and discourse. Phonology: Description of sound systems and their relation to an orthographic alphabet."
-        },
-        "module3": {
-          "title": "Introduction to Sociolinguistics",
-          "description": "Covers topics relevant to the study of languages at social and cultural levels, to understand the factors that enhance or diminish the vitality of a language, such as language policy and planning, dialectal variation, discourse, communication and identity, diglossia, bilingual education, and orthography normalization (35 hours)."
-        },
-        "module4": {
-          "title": "Applied Linguistics in the Community",
-          "description": "Covers the linguistic documentation of native languages and the use of the obtained data to open new spaces for language use. Additionally, it presents programs for data analysis and publication. It also includes orientation for community linguistic development where participants are the active agents in promoting the language (35 hours)."
-        },
-        "module5": {
-          "title": "Principles of Translation",
-          "description": "Introduction to the basic principles of translation. It covers the factors that influence the nature and accuracy of a translation, whether it is an informal document, a government law, or a religious text. There will be a lot of practice with the principles (35 hours). Requirement: Must speak two languages."
-        },
-        "module6": {
-          "title": "Acquisition of Another Language",
-          "description": "Often, adults need to learn another language. If you plan to learn a language without a written form, or a language that has not been formally documented, how would you proceed? This module is an introduction to theories of second language acquisition and allows you to test what you are learning in language learning groups (35 hours)."
-        }
-      }
-    },
-  "pueblaCityDescription": "Description of the City of Puebla",
-  "pueblaCityDetails": {
-      "heading": "Welcome to Puebla City: Your Home for the Summer Program!",
-      "content": "Puebla City, a UNESCO World Heritage site, is a vibrant and historical city located in central Mexico. Known for its rich cultural heritage, stunning architecture, and delicious cuisine, Puebla is an ideal destination for students attending the International Diploma in Applied Linguistics.\n\nGetting Here\nThe closest airport is Puebla's Hermanos Serdán International Airport (PBC), which has direct flights from several major cities. Alternatively, Mexico City’s Benito Juárez International Airport (MEX) is about a two-hour drive away, with frequent shuttle services and buses connecting to Puebla.\n\nPublic Transport\nPuebla offers a reliable and affordable public transportation system, including buses, taxis, and the RUTA (Red Urbana de Transporte Articulado) bus rapid transit system. For those who prefer, ride-sharing services like Uber and Didi are also available.\n\nSafety\nPuebla is considered one of the safest cities in Mexico. However, as with any travel, it's essential to stay aware of your surroundings, especially at night. The city center and tourist areas are generally safe and well-patrolled.\n\nTourist Attractions\nPuebla is a city full of attractions. Don’t miss the stunning Puebla Cathedral, the historic forts of Loreto and Guadalupe, and the colorful Parian Market for local crafts. For a taste of local culture, visit the Amparo Museum and the International Museum of the Baroque. Nature lovers will enjoy the nearby Popocatépetl and Iztaccíhuatl volcanoes.\n\nPlaces to Stay\nPuebla offers a range of accommodation options to suit all budgets. From luxurious hotels like the Rosewood Puebla and La Purificadora to budget-friendly hostels and guesthouses, there’s something for everyone. Many accommodations are conveniently located near the city center and the university.\n\nDining and Cuisine\nPuebla is famous for its cuisine, including the iconic mole poblano, chalupas, and chiles en nogada. Be sure to explore local eateries and street food vendors to get a taste of the authentic flavors of Puebla.\n\nWeather\nPuebla enjoys a mild climate year-round. Summers are warm with occasional rain showers, so bringing a light jacket and an umbrella is a good idea.\n\nWe look forward to welcoming you to Puebla for an unforgettable summer filled with learning, cultural exchange, and exploration. Prepare to immerse yourself in a city that perfectly blends tradition and modernity, making it the ideal backdrop for your studies and adventures!"
-    },
-  "buapDescription": "Description of the BUAP",
-  "ilvDescription": "Description of the ILV",
-    "studentRequirements": {
-      "languageProficiency": {
-        "heading": "Language Proficiency",
-        "details": "Must speak Spanish at an academic fluency level. Ideally, should be a speaker of an indigenous language of Mexico, especially for courses related to translation and applied linguistics in the community. Life experience as a native or fluent speaker of an indigenous language of Mexico counts as academic preparation for the course."
-      },
-      "educationalBackground": {
-        "heading": "Educational Background",
-        "details": "A bachelor's degree in linguistics, education, anthropology, or a related field is preferred. Previous coursework or experience in linguistics or language studies is advantageous."
-      },
-      "professionalExperience": {
-        "heading": "Professional Experience",
-        "details": "Experience in teaching, language documentation, translation, or community work with indigenous languages is highly desirable. Practical experience in linguistic research or language preservation projects is beneficial."
-      },
-      "technicalSkills": {
-        "heading": "Technical Skills",
-        "details": "Familiarity with linguistic software and tools is a plus. Basic computer skills, including proficiency in Microsoft Office and internet research."
-      },
-      "otherRequirements": {
-        "heading": "Other Requirements",
-        "details": "A strong commitment to the preservation and promotion of indigenous languages and cultures. Ability to work collaboratively in a multicultural and multilingual environment. Good communication and interpersonal skills."
-      }
-    }
-  }
-  
+  },
+  "title": "International Diploma in Applied Linguistics - BUAP 2024",
+  "footer": {
+    "privacyPolicy": "Privacy Policy",
+    "termsOfUse": "Terms of Use",
+    "contact": "Contact Us"
+  },
+  "academics": "Academics",
+  "instructors": "Instructors",
+  "history": "History",
+  "alumni": "Alumni"
+}

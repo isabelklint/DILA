@@ -13,3 +13,12 @@ body {
   background-color: #1A2534;
   color: white; /* Set default text color to white */
 }
+
+.dropdown-menu {
+  position: absolute;
+  z-index: 10; /* Ensure it appears above other content */
+}
+
+.relative {
+  position: relative;
+}

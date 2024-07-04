@@ -19,36 +19,36 @@
     ],
     "quality": "El Diplomado proporciona contenido científico-académico de calidad internacional orientado a las lenguas originarias de México."
   },
-    "about": "Acerca de",
+  "about": "Acerca de",
   "aboutDetails": {
-      "background": {
-        "heading": "Antecedentes",
-        "details": "El diplomado empezó como un taller de capacitación como respuesta a un creciente interés por los grupos indígenas del país, así como un afán por el intercambio con personas de otras culturas y un deseo de servir a los lingüísticamente aislados. Por eso, el Instituto Lingüístico de Verano juntamente con la Universidad Madero ofreció en 1991 el primer taller de capacitación en los principios básicos de la lingüística descriptiva, con un fuerte énfasis en el aprendizaje efectivo de idiomas indígenas y en el arte de la empatía cultural. En 1997 a este taller se le confirió el nivel de diplomado con una duración total de 280 horas, dividido en dos veranos de clases. En 2003 se reestructuró el curso a un solo verano de 140 horas. En 2006 el diplomado cambió su sede de la Universidad de Madero a la Universidad Autónoma de San Luis Potosí y se extendió su duración a 160 horas en un verano. A partir del 2009 por medio de un marco específico entre el Instituto Lingüístico de Verano A.C. y la UASLP, el diplomado se realiza por una alianza administrativa y académica por las dos instituciones. En 2017 el diplomado se reestructuró y en colaboración con la Benemérita Universidad Autónoma de Puebla se convirtió en el Diplomado Internacional en Lingüistica Aplicada, ofreciendo una formación homologada a los marcos teóricos y metodológicos internacionales de vanguardia para una enseñanza de talla mundial. En julio del 2018 el Diplomado Internacional en Lingüística Aplicada se llevó a cabo por primera vez en la Benemérita Autónoma Universidad de Puebla. Asistieron 53 alumnos, incluyendo 24 que son de comunidades de lenguas originarias de México."
-      },
-      "targetAudience": {
-        "heading": "Dirigido a",
-        "details": "El diplomado está dirigido a universitarios, estudiantes y a otras personas a quienes les interesa estudiar y entender las lenguas y sus contextos sociales según los principios de la lingüística aplicada. Esto incluye a hablantes nativos de lenguas indígenas de México, hispanohablantes, y/o maestros de escuelas bilingües o maestros de lenguas extranjeras."
-      },
-      "academicRequirements": {
-        "heading": "Requisitos académicos",
-        "details": "Recomendado: 4 semestres de estudios universitarios. Mínimo: Estudios del bachillerato o carta que exprese la necesidad de tomarlo por cuestión laboral."
-      },
-      "cost": {
-        "heading": "Costo",
-        "details": "MXN$ 5,000.00 (Incluye desayuno diario de lunes a viernes). Los gastos adicionales de viaje y de hospedaje durante el curso son responsabilidad de cada alumno."
-      },
-      "evaluationMechanisms": {
-        "heading": "Mecanismos de Evaluación",
-        "details": "La evaluación del egresado pretende llevar a cabo por medio de los siguientes parámetros: a. Presentación de trabajos individuales y grupales. b. En su caso, exámenes acerca de los temas tratados en cada uno de los módulos del diplomado. Se requiere un promedio mínimo 8 de calificación y asistencia a las clases presenciales 80% mínimo en cada uno de los módulos para recibir el diploma."
-      },
-      "recentHistory": {
-        "heading": "Algo de historia reciente",
-        "details": "El Diplomado Internacional en Lingüística Aplicada (DILA) se pospuso en 2020 debido a la pandemia. Aunque esperábamos ofrecer nuestro DILA presencial en 2021 no fue posible. Sin embargo, gracias a nuestros convenios entre la Benemérita Autónoma Universidad de Puebla, El Intituto Lingüístico de Verano y La Universidad Intercultural del Estado de Puebla y al compromiso de nuestro profesorado, se ofreció un Seminario de dos semanas en julio de 2021, en donde la oferta académica se direccionó a la realización de un Seminario (SILA) en el cual ofrecimos contenidos académicos y de debate científico de calidad internacional. En las conferencias y talleres se abordaron temáticas que generaron en los participantes interés sobre la lingüística aplicada a las lenguas originarias, motivando a los alumnos que, en muchos casos, participaron presencialmente en el DILA 2022 el cual fue presencial de tiempo completo, de cuatro semanas, 160 horas y ahora se oferta nuevamente en 2024. El Seminario Internacional en Lingüística Aplicada (SILA 2021) fue un espacio virtual de formación lingüística a partir de un ciclo de conferencias y talleres en vivo, en una plataforma digital, con los siguientes temas aplicados a las lenguas originarias de México: fonética articulatoria, lingüística descriptiva, sociolingüística, principios de traducción, documentación de las lenguas y adquisición de otra lengua, proporcionando contenido científico-académico de calidad internacional."
-      }
-    },  
-"programDetails": "Detalles del Programa",
+    "background": {
+      "heading": "Antecedentes",
+      "details": "El diplomado empezó como un taller de capacitación como respuesta a un creciente interés por los grupos indígenas del país, así como un afán por el intercambio con personas de otras culturas y un deseo de servir a los lingüísticamente aislados. Por eso, el Instituto Lingüístico de Verano juntamente con la Universidad Madero ofreció en 1991 el primer taller de capacitación en los principios básicos de la lingüística descriptiva, con un fuerte énfasis en el aprendizaje efectivo de idiomas indígenas y en el arte de la empatía cultural. En 1997 a este taller se le confirió el nivel de diplomado con una duración total de 280 horas, dividido en dos veranos de clases. En 2003 se reestructuró el curso a un solo verano de 140 horas. En 2006 el diplomado cambió su sede de la Universidad de Madero a la Universidad Autónoma de San Luis Potosí y se extendió su duración a 160 horas en un verano. A partir del 2009 por medio de un marco específico entre el Instituto Lingüístico de Verano A.C. y la UASLP, el diplomado se realiza por una alianza administrativa y académica por las dos instituciones. En 2017 el diplomado se reestructuró y en colaboración con la Benemérita Universidad Autónoma de Puebla se convirtió en el Diplomado Internacional en Lingüística Aplicada, ofreciendo una formación homologada a los marcos teóricos y metodológicos internacionales de vanguardia para una enseñanza de talla mundial. En julio del 2018 el Diplomado Internacional en Lingüística Aplicada se llevó a cabo por primera vez en la Benemérita Autónoma Universidad de Puebla. Asistieron 53 alumnos, incluyendo 24 que son de comunidades de lenguas originarias de México."
+    },
+    "targetAudience": {
+      "heading": "Dirigido a",
+      "details": "El diplomado está dirigido a universitarios, estudiantes y a otras personas a quienes les interesa estudiar y entender las lenguas y sus contextos sociales según los principios de la lingüística aplicada. Esto incluye a hablantes nativos de lenguas indígenas de México, hispanohablantes, y/o maestros de escuelas bilingües o maestros de lenguas extranjeras."
+    },
+    "academicRequirements": {
+      "heading": "Requisitos académicos",
+      "details": "Recomendado: 4 semestres de estudios universitarios. Mínimo: Estudios del bachillerato o carta que exprese la necesidad de tomarlo por cuestión laboral."
+    },
+    "cost": {
+      "heading": "Costo",
+      "details": "MXN$ 5,000.00 (Incluye desayuno diario de lunes a viernes). Los gastos adicionales de viaje y de hospedaje durante el curso son responsabilidad de cada alumno."
+    },
+    "evaluationMechanisms": {
+      "heading": "Mecanismos de Evaluación",
+      "details": "La evaluación del egresado pretende llevar a cabo por medio de los siguientes parámetros: a. Presentación de trabajos individuales y grupales. b. En su caso, exámenes acerca de los temas tratados en cada uno de los módulos del diplomado. Se requiere un promedio mínimo 8 de calificación y asistencia a las clases presenciales 80% mínimo en cada uno de los módulos para recibir el diploma."
+    },
+    "recentHistory": {
+      "heading": "Algo de historia reciente",
+      "details": "El Diplomado Internacional en Lingüística Aplicada (DILA) se pospuso en 2020 debido a la pandemia. Aunque esperábamos ofrecer nuestro DILA presencial en 2021 no fue posible. Sin embargo, gracias a nuestros convenios entre la Benemérita Autónoma Universidad de Puebla, El Intituto Lingüístico de Verano y La Universidad Intercultural del Estado de Puebla y al compromiso de nuestro profesorado, se ofreció un Seminario de dos semanas en julio de 2021, en donde la oferta académica se direccionó a la realización de un Seminario (SILA) en el cual ofrecimos contenidos académicos y de debate científico de calidad internacional. En las conferencias y talleres se abordaron temáticas que generaron en los participantes interés sobre la lingüística aplicada a las lenguas originarias, motivando a los alumnos que, en muchos casos, participaron presencialmente en el DILA 2022 el cual fue presencial de tiempo completo, de cuatro semanas, 160 horas y ahora se oferta nuevamente en 2024. El Seminario Internacional en Lingüística Aplicada (SILA 2021) fue un espacio virtual de formación lingüística a partir de un ciclo de conferencias y talleres en vivo, en una plataforma digital, con los siguientes temas aplicados a las lenguas originarias de México: fonética articulatoria, lingüística descriptiva, sociolingüística, principios de traducción, documentación de las lenguas y adquisición de otra lengua, proporcionando contenido científico-académico de calidad internacional."
+    }
+  },
+  "programDetails": "Detalles del Programa",
   "programDetailsSections": {
-    "description": "algunas detalles sobre el programa",
+    "description": "Algunas detalles sobre el programa",
     "courseCatalog": "Catálogo de Cursos",
     "docents": "Docentes",
     "adminTeam": "Equipo Administrativo",
@@ -57,227 +57,71 @@
     "ilvDescription": "Descripción del ILV A.C."
   },
   "register": "Registrar",
-    "registerInfo": {
-      "title": "Registrar",
-      "registrationLinkText": "Formulario de Registro",
-      "paymentInfoTitle": "Información de Pago",
-      "paymentDetails": {
-        "bank": "Banco: HSBC",
-        "name": "Nombre: BUAP VIEP ACT-ACADEM.",
-        "account": "Cuenta: 4070369335",
-        "interbankClabe": "Clabe Interbancaria: 021650040703693352",
-        "reference": "Referencia: Inscripción DILA 2024",
-        "importantNote": "Importante: Si realiza una transferencia digital, en el campo de Referencia incluya: Inscripción DILA 2024 y el nombre completo del estudiante. Si paga en el banco, el recibo debe tener el nombre completo del estudiante escrito con tinta azul.",
-        "instructions": "Una vez realizado el depósito o transferencia, es necesario enviar el recibo por correo electrónico con el asunto: \"Inscripción DILA 2024\" a las direcciones que indicaremos, con el nombre completo de la persona a inscribir. Este nombre se usará para el Diploma una vez aprobado.",
-        "invoiceNote": "Si se requiere factura, debe indicarse al enviar el recibo de pago.",
-        "investment": "INVERSIÓN: $5000.00 MXN (cinco mil pesos mexicanos)",
-        "includes": "Incluye inscripción para el diploma, materiales para actividades, desayuno diario y diploma (al cumplir con los requisitos para su emisión)."
-      }
-    },
-    "contact": "Contáctenos",
-    "contactInfo": {
-      "title": "Contacto",
-      "contactDetails": "Algun nombre, dirección, correo electrónico"
-    },
-  "docents": "Docentes",
-  "docentsList": [
-    {
-      "name": "Victoria Infante",
-      "role": "Lingüística descriptiva",
-      "bio": "Victoria Infante es miembro de la Missão ALEM en Brasil donde se certificó como técnico de Lingüística. Actualmente es la directora del Departamento de Cursos en el mismo programa. Desde 2018 enseña Análisis Fonológico, Análisis Gramatical y materias relacionadas en el Curso de Linguística y Misiología (CLM) ofrecido por la Missão ALEM. Actualmente está culminando su Maestría en Linguística y su enfoque investigativo se centra en la lengua Ninam del Alto Mucajaí, perteneciente al grupo Yanomami.",
-      "img": "/images/victoria.jpg"
-    },
-    {
-      "name": "Ricky Kroeger",
-      "role": "Fonética",
-      "bio": "Lingüista con el Instituto Lingüístico de Verano estudiando el zapoteco de San Pablo Güilá en Valles Centrales, Oaxaca desde 2018 hasta el presente. Tiene licenciatura en lingüística de la Universidad de California, San Diego y está terminando su maestría en lingüística aplicada en Dallas International University. Sus intereses incluyen las lenguas zapotecas y otomangues, la lingüística histórica, y la morfología. Está escribiendo su tesis acerca de la relación histórica entre la familia Popolocana y Zapotecana.",
-      "img": "/images/ricky.jpg"
-    },
-    {
-      "name": "Reyna Verónica Quintanar Najera",
-      "role": "Lingüística descriptiva",
-      "bio": "Licenciada y Maestra en Lingüística, Danzaterapeuta con experiencia en danza contemporánea y estudiante del último semestre del Doctorado en Humanidades. Experiencia en trabajo de campo e investigadora del triqui del Poblado Miguel Alemán originario del triqui de Copala con publicaciones sobre la lengua. Estancia académica en España. He dirigido jornadas comunitarias y misiones rurales. He impartido talleres de comprensión lectora, clases de lingüística, redacción, pensamiento científico, expresión corporal y artes. En entrenamientos misioneros nacionales, he dado talleres de danza contemporánea nivel principiante. Experiencia con niños, adolescentes, jóvenes y adultos. Actualmente, sirvo en el ministerio de danza y misiones como líder en mi iglesia local junto con mi esposo.",
-      "img": "/images/reyna.jpg"
-    },
-    {
-      "name": "Filip Dale",
-      "role": "Adquisición lingüística",
-      "bio": "Maestro en lingúísticas y exégesis del Instituto lingüístico de Canadá. Ha enseñado inglés como lengua extranjera en la preparatoria en Noruega. Nativohablante del noruego, pero también habla inglés, español y griego antiguo, además de actualmente estar aprendiendo el me'phaa de Acatepec en el estado de Guerrero. Allá vive con su esposa Stephanie, trabajando como lingüista. Contribuye con la traducción y el formateo de recursos para la traducción de la Biblia.",
-      "img": "/images/filip.jpg"
-    },
-    {
-      "name": "Stephanie Roberts",
-      "role": "Adquisición lingüística",
-      "bio": "Maestra en lingüísticas y exégesis del Instituto linguistico de Canadá. Cuenta con educación y experiencia en la enseñanza del inglés como lengua extranjera. Ha impartido clases a niños, adolecentes y adultos en México, USA, China e India. Nativo hablante del español e inglés. Mientras vivió en Noruega durante dos años también aprendio el noruego. Actualmente esta aprendiendo me'phaa de Acatepec en el estado de Guerrero junto con su esposo Filip. Contribuye como traductora del inglés al español de recursos para la traducción de la Biblia. Su pasión es capacitar a nativo hablantes para que ellos sean los educadores de su pueblo.",
-      "img": "/images/stephanie.jpg"
-    },
-    {
-      "name": "Juan Quijada",
-      "role": "Fonética",
-      "bio": "Juan Luis Quijada es miembro de la Missão ALEM en Brasil donde se certificó como técnico de Lingüística. Actualmente es professor auxiliar en las materias de Fonética Articulatoria, Métodos de Campo y Sociolinguística en el Curso de Linguística y Misiología (CLM) ofrecido por la Missão ALEM.",
-      "img": "/images/juan.jpg"
-    },
-    {
-      "name": "Amanda Fischer",
-      "role": "Sociolingüística",
-      "bio": "Lingüista con experiencia en interpretación médica español-inglés y en la enseñanza de inglés como lengua extranjera. Realizó una maestría en lingüística y traducción y es licenciada en el estudio de lenguas y culturas del mundo, con especialización en lingüística aplicada. Como educadora, ha impartido varios cursos y talleres en lenguaje y lingüística tanto en línea como en formato híbrido y presencial, en diversos grupos demográficos. Con un ferviente compromiso de servir a las comunidades locales, su pasión es empoderar a cada persona a través del desarrollo del lenguaje, fomentando el florecimiento cultural y la interconexión.",
-      "img": "/images/amanda.jpg"
-    },
-    {
-      "name": "Kevin Penner",
-      "role": "Fonética",
-      "bio": "Kevin es el actual coordinador de lingüística de SIL México, y también trabaja en traducción y consultoría lingüística. Con Licenciatura en Educación y Doctorado en Lingüística de la Universidad de Alberta en Edmonton, Canadá, ha realizado un extenso trabajo de campo sobre el mixteco Ixtayutla desde 2003 hasta el presente, enfocándose principalmente en la fonología prosódica y el tono, así como en la descripción gramatical y las categorías léxicas. Kevin también ha impartido cursos universitarios de lingüística, presentado artículos en conferencias lingüísticas y se desempeñó como revisor por pares para diversas revistas lingüísticas.",
-      "img": "/images/kevin.jpg"
-    },
-    {
-      "name": "Rachael Castello",
-      "role": "Traducción",
-      "bio": "Socia del Instituto Lingüístico de Verano A.C., lingüista y traductora con especialidad en la traducción de los textos de la Biblia hebrea. Realizó una Maestría en Lingüística aplicada con especialización en la traducción de la Biblia y es licenciada en lingüística y estudios internacionales. Ha dirigido y enseñado en cursos de traducción para estudiantes de diversos niveles en la BUAP en Puebla, la UABJO en Oaxaca, y en talleres ofrecidos por el ILV en Oaxaca. Sus intereses académicos incluyen las teorías de comunicación aplicadas a la traducción, y la historia, geografía, arqueología, cultura, lenguas y literatura del antiguo medio oriente.",
-      "img": "/images/rachael.jpg"
-    },
-    {
-      "name": "Carolina González González",
-      "role": "Traducción",
-      "bio": "Orgullosamente nuntajɨ̱yi, hablante nativa de la lengua originaria popoluca de la sierra. Licenciada en Gestión Intercultural para el Desarrollo con orientación en Lenguas por la Universidad Veracruzana Intercultural. Traductora e intérprete certificada por el INALI y CONOCER. Colabora con el Instituto Lingüístico de Verano, creando materiales de lectoescritura y contenidos en materia de traducción. Imparte talleres de lectoescritura en su lengua materna y español. Fue Titular Regional de la Academia Veracruzana de las Lenguas Indígenas, en Veracruz. Ha colaborado con el INALI y el INPI en materias de traducción e interpretación. Ex alumna del Diplomado de Linguistica Aplicada en el año 2018. Su pasión es cultivar su lengua materna popoluca de la sierra.",
-      "img": "/images/carolina.jpg"
-    },
-    {
-      "name": "Arisbe Aguilar Garcés",
-      "role": "Lingüística aplicada en la comunidad",
-      "bio": "Lingüística, Psicóloga y Maestra en Emprendimiento e Innovación social con experiencia en el desarrollo de iniciativa encaminadas al fortalecimiento institucional de ILV como una organización sin fines de lucro, participo con Entrelazando Pueblo A.C. en proyectos comunitarios desarrollando proyectos en apoyo a la educación básica y desarrollo de habilidades. Posee el Curso Internacional en Lingüística, Traducción y Alfabetización (CILTA) y ha sido maestra asistente en la impartición de la materia de Fonética Articulatoria en 2016 y 2018 del DILA.",
-      "img": "/images/arisbe.jpg"
-    },
-    {
-      "name": "Benito Fernández Figueroa",
-      "role": "Lingüística aplicada en la comunidad",
-      "bio": "Lingüista y promotor cultural del idioma mazateco, es autor de varios libros en dicha lengua. Fue ganador del premio sobre obras en lengua indígena “Premio CaSa 2020”. Colabora con la creación de materiales para leer y escuchar el mazateco en muchas plataformas de internet. También es creador de diversos materiales como folletos, audios y videos en pro del fortalecimiento de las lenguas originarias, además de haber sido traductor de la biblia y escritor de diferentes colecciones literarias en mazateco.",
-      "img": "/images/benito.jpg"
-    },
-    {
-      "name": "Gamaliel Astivia Chavez",
-      "role": "Lingüística Aplicada a la comunidad",
-      "bio": "Licenciado en Comunicación Social por la UAM Xochimilco. Egresado del Diplomado Internacional en Lingüística Aplicada 2018 por el ILV A.C. y la BUAP. Colabora como voluntario del ILV A.C. desde 2019, enfocado en la promoción de los materiales producidos en distintas lenguas en México, a través de medios digitales. Ha dirigido diversos entrenamientos enfocados en producir más contenidos digitales como Apps y Libros digitales, desde las lenguas originarias.",
-      "img": "/images/gamaliel.jpg"
-    },
-    {
-      "name": "Margie Hord",
-      "role": "Lingüística aplicada",
-      "bio": "Licenciada en antropología y Maestra en lingüística aplicada, ambos grados por la Universidad de las Américas Puebla (UDLAP). Ha enseñado una variedad de materias a lo largo de casi treinta años en el Diplomado de Lingüística y ha enseñado inglés y traducción en diversas universidades como la UDLAP, UPAEP, BUAP UVP e ITESM Puebla. Adicionalmente es escritora, traductora y correctora de estilo en inglés y español.",
-      "img": "/images/margie.jpg"
-    },
-    {
-      "name": "Christy Hemphill",
-      "role": "Sociolingüística",
-      "bio": "Lingüista y educadora. Sus áreas de interés académico incluyen la adquisición del idioma, sociolingüística, análisis de gramática, teoría de comunicación y traducción, pedagogía, y diseño curricular. Tiene experiencia dando clases en varios niveles, incluyendo niños, adolescentes, universitarios, y adultos así como en programas educativos de la comunidad. Desde 2013 trabaja en Guerrero con el Instituto Lingüístico de Verano, asesorando un programa de desarrollo de me’phaa. Pasó varios años estudiando y analizando el me’phaa de Teocuitlapa y colaborando con miembros de la comunidad para producir recursos escritos y audios para la alfabetización y la preservación cultural así como para dar talleres de capacitación.",
-      "img": "/images/christy.jpg"
-    },
-    {
-      "name": "Stephen Parker",
-      "role": "Lingüística descriptiva",
-      "bio": "Tiene más de 40 años de experiencia como lingüista de campo, investigador y maestro. Vivió entre varios grupos nativos de la selva amazónica del Perú durante 10 años, documentando y analizando sus lenguas. Después de terminar el doctorado en la Universidad de Massachusetts Amherst en el 2002, trabajó en Papúa Nueva Guinea con Mónica, su esposa peruana. Desde el año 2006 radican como familia en la sede de la misión en Texas, donde Esteban es profesor en Dallas International University. Su área de más interés es la teoría fonológica, incluso la sonoridad y la Teoría de Optimidad. Ha publicado 120 artículos y libros académicos.",
-      "img": "/images/steve.jpg"
-    },
-    {
-      "name": "Ryan Klint",
-      "role": "Lingüística Aplicada en la Comunidad",
-      "bio": "Director y instructor de Lingüística Aplicada en la Comunidad.",
-      "img": "/images/ryan.jpg"
+  "registerInfo": {
+    "title": "Registrar",
+    "registrationLinkText": "Formulario de Registro",
+    "paymentInfoTitle": "Información de Pago",
+    "paymentDetails": {
+      "bank": "Banco: HSBC",
+      "name": "Nombre: BUAP VIEP ACT-ACADEM.",
+      "account": "Cuenta: 4070369335",
+      "interbankClabe": "Clabe Interbancaria: 021650040703693352",
+      "reference": "Referencia: Inscripción DILA 2024",
+      "importantNote": "Importante: Si realiza una transferencia digital, en el campo de Referencia incluya: Inscripción DILA 2024 y el nombre completo del estudiante. Si paga en el banco, el recibo debe tener el nombre completo del estudiante escrito con tinta azul.",
+      "instructions": "Una vez realizado el depósito o transferencia, es necesario enviar el recibo por correo electrónico con el asunto: \"Inscripción DILA 2024\" a las direcciones que indicaremos, con el nombre completo de la persona a inscribir. Este nombre se usará para el Diploma una vez aprobado.",
+      "invoiceNote": "Si se requiere factura, debe indicarse al enviar el recibo de pago.",
+      "investment": "INVERSIÓN: $5000.00 MXN (cinco mil pesos mexicanos)",
+      "includes": "Incluye inscripción para el diploma, materiales para actividades, desayuno diario y diploma (al cumplir con los requisitos para su emisión)."
     }
-  ],
-  "adminTeam": "Equipo Administrativo",
-  "adminTeamList": [
-    {
-      "name": "R. David Klint",
-      "role": "Director",
-      "bio": "R. David Klint is a linguist/translator with many years of experience.",
-      "img": "/images/ryan.jpg"
-    },
-    {
-      "name": "Ivan Deance",
-      "role": "Co-Director",
-      "bio": "Ivan Deance es un profesor con muchos años de experiencia.",
-      "img": "/images/blank.jpg"
-    },
-    {
-      "name": "Laurel Penner",
-      "role": "Administradora de Logistica",
-      "bio": "Laurel Penner is a linguist/translator with many years of experience.",
-      "img": "/images/blank.jpg"
-    },
-    {
-      "name": "Isabel Klint",
-      "role": "Administradora de Finanzas",
-      "bio": "Isabel Klint is a linguist/translator with many years of experience.",
-      "img": "/images/isabel.jpg"
-    },
-    {
-      "name": "Ana Ibel",
-      "role": "Administradora de Vida de Estudiantes",
-      "bio": "Ana Ibel is a linguist/translator with many years of experience.",
-      "img": "/images/blank.jpg"
-    }
-  ],
-  "registrationInfo": "Puedes registrarte dando click aquí:\n[Formato de registro](https://docs.google.com/forms/d/e/1FAIpQLScMKNvrrbjDeAX0HFPbHGjoAEWvgqMLgufB-zkDqPH2-_IcQQ/closedform)\nLas instrucciones y continuidad del proceso de ingreso se darán en el correo electrónico con el que te registraste.",
-  "paymentInfo": "Banco: HSBC\nNombre: BUAP VIEP ACT-ACADEM.\nCuenta: 4070369335\nClabe Interbancaria: 021650040703693352\nReferencia: Inscripción DILA 2024\nImportante: en caso de hacer una transferencia digital en Referencia deberá colocarse: Inscripción DILA 2024 y el nombre completo de la o el estudiante, si es un pago en banco, el comprobante debe tener escrito con tinta azul el nombre completo de la o el estudiante. Una vez hecho el depósito o transferencia es necesario enviar el recibo por correo electrónico con el asunto: \"Inscripción DILA 2024\" a las direcciones que indicaremos, con el nombre completo de la persona a inscribirse. Se tomará este nombre para la elaboración del Diploma una vez aprobado. En caso de requerir factura, es necesario indicarlo al momento de enviar el comprobante de pago.\n\nINVERSIÓN: $5000.00 MXN (cinco mil pesos mexicanos)\nIncluye la inscripción al diplomado, materiales para el desarrollo de las actividades, desayuno diario y diploma (al cumplir con los requisitos para su obtención).",
-  "courseCatalog": "Catálogo de Cursos",
-  "courseCatalogDetails": {
-      "title": "Estructura Curricular",
-      "description": "En el Diplomado Internacional en Lingüística Aplicada - BUAP 2024, se ofrecerá un curso de cuatro módulos. Todos los alumnos tomarán los módulos 1 y 2.",
-      "modules": {
-        "module1": {
-          "title": "Introducción a la Fonética Articulatoria",
-          "description": "Introducción a la fonética articulatoria y técnicas esenciales a través de un buen entendimiento del Alfabeto Fonético Internacional. El curso contiene mucha práctica en el reconocimiento y la producción de sonidos fundamentales del habla, lo cual ayuda para una buena pronunciación en el aprendizaje de una lengua, y para decodificar los sonidos de cualquier lengua del mundo (40 horas)."
-        },
-        "module2": {
-          "title": "Introducción a la Lingüística Descriptiva",
-          "description": "Introducción a los temas básicos de la lingüística para poder llevar a cabo el análisis tanto de lenguas indoeuropeas como no indoeuropeas (50 horas). Este módulo Incluye tres enfoques: Semántica: Descripción de los conceptos codificados en el léxico y su recopilación en los diccionarios. Gramática: Descripción de los tres niveles estructurales de la gramática, los cuales son la morfología, la sintaxis y el discurso. Fonología: Descripción de los sistemas de sonidos y su relación con un alfabeto ortográfico."
-        },
-        "module3": {
-          "title": "Introducción a la Sociolingüística",
-          "description": "Trata sobre temas pertinentes al estudio de los idiomas en los niveles social y cultural, para comprender los factores que favorecen o disminuyen la vitalidad de una lengua, tales como, la política de la lengua y su planificación, la variación dialectal, el discurso, la comunicación e identidad, la diglosia, la educación bilingüe y la normalización de ortografías (35 horas)."
-        },
-        "module4": {
-          "title": "Lingüística Aplicada en la Comunidad",
-          "description": "Trata sobre la documentación lingüística de idiomas originarios y la utilización de los datos obtenidos con el fin de abrir nuevos espacios para el uso de la lengua. Además, se presentan unos programas para el análisis y publicación de los datos. También incluye orientación al desarrollo lingüístico comunitario donde los participantes son los agentes activos en la promoción de la lengua (35 horas)."
-        },
-        "module5": {
-          "title": "Principios de Traducción",
-          "description": "Introducción a los principios básicos de la traducción. Verán los factores que influyen la naturaleza y la precisión de una traducción, siendo un documento informal, o una ley del gobierno, un texto religioso. Habrá mucha práctica de los principios (35 horas). Requisito: saber hablar dos idiomas."
-        },
-        "module6": {
-          "title": "Adquisición de Otra Lengua",
-          "description": "Muchas veces los adultos necesitamos aprender otro idioma. Si piensa aprender un idioma sin forma escrita, o un idioma que no ha sido documentado formalmente, ¿cómo procedería? Este módulo es una introducción a los teorías de adquisición de otro idioma, y permite que usted pueda probar lo que está aprendiendo, en grupos de aprendizaje de otro idioma (35 horas)."
-        }
-      }
-    },  
-  "pueblaCityDescription": "Descripción de la Ciudad de Puebla",
-  "pueblaCityDescription": {
-    "heading": "¡Bienvenidos a la Ciudad de Puebla: Tu Hogar para el Programa de Verano!",
-    "content": "La ciudad de Puebla, un sitio del Patrimonio Mundial de la UNESCO, es una vibrante e histórica ciudad ubicada en el centro de México. Conocida por su rica herencia cultural, impresionante arquitectura y deliciosa gastronomía, Puebla es un destino ideal para los estudiantes que asisten al Diplomado Internacional en Lingüística Aplicada.\n\nCómo Llegar\nEl aeropuerto más cercano es el Aeropuerto Internacional Hermanos Serdán de Puebla (PBC), que tiene vuelos directos desde varias ciudades importantes. Alternativamente, el Aeropuerto Internacional Benito Juárez de la Ciudad de México (MEX) está a unas dos horas en automóvil, con servicios de transporte y autobuses frecuentes que conectan con Puebla.\n\nTransporte Público\nPuebla ofrece un sistema de transporte público confiable y económico, incluyendo autobuses, taxis y el sistema de autobús rápido RUTA (Red Urbana de Transporte Articulado). Para quienes lo prefieren, también están disponibles los servicios de transporte compartido como Uber y Didi.\n\nSeguridad\nPuebla es considerada una de las ciudades más seguras de México. Sin embargo, como con cualquier viaje, es esencial mantenerse atento a su entorno, especialmente por la noche. El centro de la ciudad y las áreas turísticas son generalmente seguras y están bien vigiladas.\n\nAtracciones Turísticas\nPuebla tiene una variedad de atracciones turísticas que no te puedes perder. Entre ellas, la Catedral de Puebla, la Biblioteca Palafoxiana, el Museo Amparo, y el famoso Callejón de los Sapos. Además, la ciudad es conocida por sus festividades y celebraciones culturales vibrantes.\n\nAlojamiento\nHay una amplia gama de opciones de alojamiento en Puebla, desde hoteles de lujo hasta hostales económicos. Muchas de estas opciones están convenientemente ubicadas cerca del centro de la ciudad y de las instalaciones del programa.\n\nGastronomía\nNo te pierdas la oportunidad de probar la cocina poblana, famosa por platillos como el mole poblano, los chiles en nogada y las cemitas. Hay muchos restaurantes y mercados locales donde puedes disfrutar de estas delicias.\n\nEn resumen, Puebla ofrece una mezcla perfecta de cultura, historia y comodidad, haciendo que tu experiencia en el Diplomado Internacional en Lingüística Aplicada sea memorable y enriquecedora."
   },
-  "buapDescription": "Descripción de la BUAP",
-  "ilvDescription": "Descripción del ILV",
-    "studentRequirements": {
-      "languageProficiency": {
-        "heading": "Dominio del Idioma",
-        "details": "Debe hablar español a un nivel de fluidez académica. Idealmente, debe ser hablante de una lengua indígena de México, especialmente para los cursos relacionados con la traducción y la lingüística aplicada en la comunidad. La experiencia de vida como hablante nativo o fluido de una lengua indígena de México cuenta como preparación académica para el curso."
+  "contact": "Contáctenos",
+  "contactInfo": {
+    "title": "Contacto",
+    "contactDetails": "Algun nombre, dirección, correo electrónico"
+  },
+  "community": "Comunidad",
+  "students": "Estudiantes",
+  "docents": "Docentes",
+  "alumni": "Alumni",
+  "courses": "Cursos",
+  "coursesDetails": {
+    "title": "Estructura Curricular",
+    "description": "En el Diplomado Internacional en Lingüística Aplicada - BUAP 2024, se ofrecerá un curso de cuatro módulos. Todos los alumnos tomarán los módulos 1 y 2.",
+    "modules": {
+      "module1": {
+        "title": "Introducción a la Fonética Articulatoria",
+        "description": "Introducción a la fonética articulatoria y técnicas esenciales a través de un buen entendimiento del Alfabeto Fonético Internacional. El curso contiene mucha práctica en el reconocimiento y la producción de sonidos fundamentales del habla, lo cual ayuda para una buena pronunciación en el aprendizaje de una lengua, y para decodificar los sonidos de cualquier lengua del mundo (40 horas)."
       },
-      "educationalBackground": {
-        "heading": "Antecedentes Educativos",
-        "details": "Se prefiere una licenciatura en lingüística, educación, antropología o un campo relacionado. Haber cursado o tener experiencia previa en lingüística o estudios de idiomas es ventajoso."
+      "module2": {
+        "title": "Introducción a la Lingüística Descriptiva",
+        "description": "Introducción a los temas básicos de la lingüística para poder llevar a cabo el análisis tanto de lenguas indoeuropeas como no indoeuropeas (50 horas). Este módulo Incluye tres enfoques: Semántica: Descripción de los conceptos codificados en el léxico y su recopilación en los diccionarios. Gramática: Descripción de los tres niveles estructurales de la gramática, los cuales son la morfología, la sintaxis y el discurso. Fonología: Descripción de los sistemas de sonidos y su relación con un alfabeto ortográfico."
       },
-      "professionalExperience": {
-        "heading": "Experiencia Profesional",
-        "details": "Es altamente deseable tener experiencia en la enseñanza, documentación de lenguas, traducción o trabajo comunitario con lenguas indígenas. La experiencia práctica en investigación lingüística o proyectos de preservación de lenguas es beneficiosa."
+      "module3": {
+        "title": "Introducción a la Sociolingüística",
+        "description": "Trata sobre temas pertinentes al estudio de los idiomas en los niveles social y cultural, para comprender los factores que favorecen o disminuyen la vitalidad de una lengua, tales como, la política de la lengua y su planificación, la variación dialectal, el discurso, la comunicación e identidad, la diglosia, la educación bilingüe y la normalización de ortografías (35 horas)."
       },
-      "technicalSkills": {
-        "heading": "Habilidades Técnicas",
-        "details": "La familiaridad con software y herramientas lingüísticas es una ventaja. Habilidades básicas en informática, incluyendo competencia en Microsoft Office e investigación en internet."
+      "module4": {
+        "title": "Lingüística Aplicada en la Comunidad",
+        "description": "Trata sobre la documentación lingüística de idiomas originarios y la utilización de los datos obtenidos con el fin de abrir nuevos espacios para el uso de la lengua. Además, se presentan unos programas para el análisis y publicación de los datos. También incluye orientación al desarrollo lingüístico comunitario donde los participantes son los agentes activos en la promoción de la lengua (35 horas)."
       },
-      "otherRequirements": {
-        "heading": "Otros Requisitos",
-        "details": "Un fuerte compromiso con la preservación y promoción de las lenguas y culturas indígenas. Capacidad para trabajar colaborativamente en un entorno multicultural y multilingüe. Buenas habilidades de comunicación e interpersonales."
+      "module5": {
+        "title": "Principios de Traducción",
+        "description": "Introducción a los principios básicos de la traducción. Verán los factores que influyen la naturaleza y la precisión de una traducción, siendo un documento informal, o una ley del gobierno, un texto religioso. Habrá mucha práctica de los principios (35 horas). Requisito: saber hablar dos idiomas."
+      },
+      "module6": {
+        "title": "Adquisición de Otra Lengua",
+        "description": "Muchas veces los adultos necesitamos aprender otro idioma. Si piensa aprender un idioma sin forma escrita, o un idioma que no ha sido documentado formalmente, ¿cómo procedería? Este módulo es una introducción a los teorías de adquisición de otro idioma, y permite que usted pueda probar lo que está aprendiendo, en grupos de aprendizaje de otro idioma (35 horas)."
       }
     }
-  }
-  
+  },
+  "title": "Diplomado Internacional en Lingüística Aplicada - BUAP 2024",
+  "footer": {
+    "privacyPolicy": "Política de Privacidad",
+    "termsOfUse": "Términos de Uso",
+    "contact": "Contáctenos"
+  },
+  "academics": "Académicos",
+  "instructors": "Instructores",
+  "history": "Historia",
+  "alumni": "Alumni"
+}
