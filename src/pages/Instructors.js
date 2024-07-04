@@ -1,10 +1,13 @@
-// Instructors.js
 import React from 'react';
 import { useTranslation } from 'react-i18next';
 
 const Instructors = () => {
   const { t } = useTranslation();
   const instructorsList = t('instructorsList', { returnObjects: true });
+
+  if (!Array.isArray(instructorsList)) {
+    return <div>Error: Instructors data is not available</div>;
+  }
 
   return (
     <div className="max-w-6xl mx-auto p-4 sm:p-6 lg:p-8 text-left">
@@ -23,6 +26,6 @@ const Instructors = () => {
       </div>
     </div>
   );
-}
+};
 
 export default Instructors;

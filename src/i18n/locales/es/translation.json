@@ -4,20 +4,33 @@
   "homeDetails": {
     "title": "160 HORAS TOTALES DE DIPLOMADO PRESENCIAL",
     "sessionDetails": "Sesiones de lunes a viernes de 8:00 a 17:00 hrs. 24 de junio al 19 de julio de 2024",
-    "description": "El Diplomado Internacional en Lingüística Aplicada (DILA 2024) consta de cuatro módulos con un valor curricular de 160 horas.",
-    "compulsorySubjects": "Incluye dos materias obligatorias:",
-    "subjectsList": [
+    "overviewTitle": "Resumen",
+    "overviewDescription": "El Diplomado Internacional en Lingüística Aplicada (DILA 2024) ofrece un plan de estudios integral diseñado para proporcionar contenido científico-académico de alta calidad, orientado a las lenguas originarias de México. El programa consta de cuatro módulos con un valor total de 160 horas.",
+    "coreSubjectsTitle": "Materias Obligatorias",
+    "coreSubjects": [
       "Fonética Articulatoria",
       "Lingüística Descriptiva"
     ],
-    "electivesTitle": "Cuatro optativas, de las cuales cada alumno selecciona dos a cursar:",
-    "electivesList": [
+    "electiveSubjectsTitle": "Materias Optativas",
+    "electiveSubjectsDescription": "Los estudiantes seleccionan dos de las siguientes cuatro optativas:",
+    "electiveSubjects": [
       "Sociolingüística",
       "Principios de Traducción",
-      "Documentación de las Lenguas",
-      "Adquisición de otra Lengua"
+      "Documentación de Lenguas",
+      "Adquisición de Lenguas"
     ],
-    "quality": "El Diplomado proporciona contenido científico-académico de calidad internacional orientado a las lenguas originarias de México."
+    "keyInformationTitle": "Información Clave",
+    "cost": "Costo: $5000 pesos MXN",
+    "location": "Ubicación: Ciudad de Puebla, Puebla, México",
+    "dates": "Fechas: del 24 de junio al 19 de julio de 2024 (normalmente dura 4 semanas del 20 de junio al 20 de julio, fechas para DILA 2025 por anunciar)",
+    "studentProfileTitle": "Perfil del Estudiante",
+    "studentProfile": [
+      "Diploma de bachillerato o algo de educación universitaria",
+      "Hablantes de lenguas indígenas",
+      "Experiencia en trabajo de lenguas dentro de la comunidad"
+    ],
+    "additionalDetailsTitle": "Detalles Adicionales",
+    "additionalDetails": "El programa DILA está diseñado para individuos dedicados a preservar y promover las lenguas indígenas a través del trabajo académico y comunitario. Los participantes se involucrarán en estudios intensivos y aplicación práctica, adquiriendo habilidades y conocimientos valiosos para apoyar sus esfuerzos de revitalización lingüística."
   },
   "about": "Acerca de",
   "aboutDetails": {
@@ -48,7 +61,7 @@
   },
   "programDetails": "Detalles del Programa",
   "programDetailsSections": {
-    "description": "Algunas detalles sobre el programa",
+    "description": "Algunos detalles del programa",
     "courseCatalog": "Catálogo de Cursos",
     "docents": "Docentes",
     "adminTeam": "Equipo Administrativo",
@@ -74,20 +87,152 @@
       "includes": "Incluye inscripción para el diploma, materiales para actividades, desayuno diario y diploma (al cumplir con los requisitos para su emisión)."
     }
   },
-  "contact": "Contáctenos",
-  "contactInfo": {
-    "title": "Contacto",
-    "contactDetails": "Algun nombre, dirección, correo electrónico"
+    "contact": {
+    "title": "Contáctenos",
+    "contactDetails": "<a href=\"mailto:dila_buap_mexico@sil.org\">dila_buap_mexico@sil.org</a>"
   },
-  "community": "Comunidad",
-  "students": "Estudiantes",
-  "docents": "Docentes",
-  "alumni": "Alumni",
-  "courses": "Cursos",
+  "instructors": "Docentes",
+  "instructorsList": [
+    {
+      "name": "Victoria Infante",
+      "role": "Lingüística descriptiva",
+      "bio": "Victoria Infante es miembro de la Missão ALEM en Brasil donde se certificó como técnico de Lingüística. Actualmente es la directora del Departamento de Cursos en el mismo programa. Desde 2018 enseña Análisis Fonológico, Análisis Gramatical y materias relacionadas en el Curso de Linguística y Misiología (CLM) ofrecido por la Missão ALEM. Actualmente está culminando su Maestría en Linguística y su enfoque investigativo se centra en la lengua Ninam del Alto Mucajaí, perteneciente al grupo Yanomami.",
+      "img": "/images/victoria.jpg"
+    },
+    {
+      "name": "Ricky Kroeger",
+      "role": "Fonética",
+      "bio": "Lingüista con el Instituto Lingüístico de Verano estudiando el zapoteco de San Pablo Güilá en Valles Centrales, Oaxaca desde 2018 hasta el presente. Tiene licenciatura en lingüística de la Universidad de California, San Diego y está terminando su maestría en lingüística aplicada en Dallas International University. Sus intereses incluyen las lenguas zapotecas y otomangues, la lingüística histórica, y la morfología. Está escribiendo su tesis acerca de la relación histórica entre la familia Popolocana y Zapotecana.",
+      "img": "/images/ricky.jpg"
+    },
+    {
+      "name": "Reyna Verónica Quintanar Najera",
+      "role": "Lingüística descriptiva",
+      "bio": "Licenciada y Maestra en Lingüística, Danzaterapeuta con experiencia en danza contemporánea y estudiante del último semestre del Doctorado en Humanidades. Experiencia en trabajo de campo e investigadora del triqui del Poblado Miguel Alemán originario del triqui de Copala con publicaciones sobre la lengua. Estancia académica en España. He dirigido jornadas comunitarias y misiones rurales. He impartido talleres de comprensión lectora, clases de lingüística, redacción, pensamiento científico, expresión corporal y artes. En entrenamientos misioneros nacionales, he dado talleres de danza contemporánea nivel principiante. Experiencia con niños, adolescentes, jóvenes y adultos. Actualmente, sirvo en el ministerio de danza y misiones como líder en mi iglesia local junto con mi esposo.",
+      "img": "/images/reyna.jpg"
+    },
+    {
+      "name": "Filip Dale",
+      "role": "Adquisición lingüística",
+      "bio": "Maestro en lingúísticas y exégesis del Instituto lingüístico de Canadá. Ha enseñado inglés como lengua extranjera en la preparatoria en Noruega. Nativohablante del noruego, pero también habla inglés, español y griego antiguo, además de actualmente estar aprendiendo el me'phaa de Acatepec en el estado de Guerrero. Allá vive con su esposa Stephanie, trabajando como lingüista. Contribuye con la traducción y el formateo de recursos para la traducción de la Biblia.",
+      "img": "/images/filip.jpg"
+    },
+    {
+      "name": "Stephanie Roberts",
+      "role": "Adquisición lingüística",
+      "bio": "Maestra en lingüísticas y exégesis del Instituto linguistico de Canadá. Cuenta con educación y experiencia en la enseñanza del inglés como lengua extranjera. Ha impartido clases a niños, adolecentes y adultos en México, USA, China e India. Nativo hablante del español e inglés. Mientras vivió en Noruega durante dos años también aprendio el noruego. Actualmente esta aprendiendo me'phaa de Acatepec en el estado de Guerrero junto con su esposo Filip. Contribuye como traductora del inglés al español de recursos para la traducción de la Biblia. Su pasión es capacitar a nativo hablantes para que ellos sean los educadores de su pueblo.",
+      "img": "/images/stephanie.jpg"
+    },
+    {
+      "name": "Juan Quijada",
+      "role": "Fonética",
+      "bio": "Juan Luis Quijada es miembro de la Missão ALEM en Brasil donde se certificó como técnico de Lingüística. Actualmente es professor auxiliar en las materias de Fonética Articulatoria, Métodos de Campo y Sociolinguística en el Curso de Linguística y Misiología (CLM) ofrecido por la Missão ALEM.",
+      "img": "/images/juan.jpg"
+    },
+    {
+      "name": "Amanda Fischer",
+      "role": "Sociolingüística",
+      "bio": "Lingüista con experiencia en interpretación médica español-inglés y en la enseñanza de inglés como lengua extranjera. Realizó una maestría en lingüística y traducción y es licenciada en el estudio de lenguas y culturas del mundo, con especialización en lingüística aplicada. Como educadora, ha impartido varios cursos y talleres en lenguaje y lingüística tanto en línea como en formato híbrido y presencial, en diversos grupos demográficos. Con un ferviente compromiso de servir a las comunidades locales, su pasión es empoderar a cada persona a través del desarrollo del lenguaje, fomentando el florecimiento cultural y la interconexión.",
+      "img": "/images/amanda.jpg"
+    },
+    {
+      "name": "Kevin Penner",
+      "role": "Fonética",
+      "bio": "Kevin es el actual coordinador de lingüística de SIL México, y también trabaja en traducción y consultoría lingüística. Con Licenciatura en Educación y Doctorado en Lingüística de la Universidad de Alberta en Edmonton, Canadá, ha realizado un extenso trabajo de campo sobre el mixteco Ixtayutla desde 2003 hasta el presente, enfocándose principalmente en la fonología prosódica y el tono, así como en la descripción gramatical y las categorías léxicas. Kevin también ha impartido cursos universitarios de lingüística, presentado artículos en conferencias lingüísticas y se desempeñó como revisor por pares para diversas revistas lingüísticas.",
+      "img": "/images/kevin.jpg"
+    },
+    {
+      "name": "Rachael Castello",
+      "role": "Traducción",
+      "bio": "Socia del Instituto Lingüístico de Verano A.C., lingüista y traductora con especialidad en la traducción de los textos de la Biblia hebrea. Realizó una Maestría en Lingüística aplicada con especialización en la traducción de la Biblia y es licenciada en lingüística y estudios internacionales. Ha dirigido y enseñado en cursos de traducción para estudiantes de diversos niveles en la BUAP en Puebla, la UABJO en Oaxaca, y en talleres ofrecidos por el ILV en Oaxaca. Sus intereses académicos incluyen las teorías de comunicación aplicadas a la traducción, y la historia, geografía, arqueología, cultura, lenguas y literatura del antiguo medio oriente.",
+      "img": "/images/rachael.jpg"
+    },
+    {
+      "name": "Carolina González González",
+      "role": "Traducción",
+      "bio": "Orgullosamente nuntajɨ̱yi, hablante nativa de la lengua originaria popoluca de la sierra. Licenciada en Gestión Intercultural para el Desarrollo con orientación en Lenguas por la Universidad Veracruzana Intercultural. Traductora e intérprete certificada por el INALI y CONOCER. Colabora con el Instituto Lingüístico de Verano, creando materiales de lectoescritura y contenidos en materia de traducción. Imparte talleres de lectoescritura en su lengua materna y español. Fue Titular Regional de la Academia Veracruzana de las Lenguas Indígenas, en Veracruz. Ha colaborado con el INALI y el INPI en materias de traducción e interpretación. Ex alumna del Diplomado de Linguistica Aplicada en el año 2018. Su pasión es cultivar su lengua materna popoluca de la sierra.",
+      "img": "/images/carolina.jpg"
+    },
+    {
+      "name": "Arisbe Aguilar Garcés",
+      "role": "Lingüística aplicada en la comunidad",
+      "bio": "Lingüística, Psicóloga y Maestra en Emprendimiento e Innovación social con experiencia en el desarrollo de iniciativa encaminadas al fortalecimiento institucional de ILV como una organización sin fines de lucro, participo con Entrelazando Pueblo A.C. en proyectos comunitarios desarrollando proyectos en apoyo a la educación básica y desarrollo de habilidades. Posee el Curso Internacional en Lingüística, Traducción y Alfabetización (CILTA) y ha sido maestra asistente en la impartición de la materia de Fonética Articulatoria en 2016 y 2018 del DILA.",
+      "img": "/images/arisbe.jpg"
+    },
+    {
+      "name": "Benito Fernández Figueroa",
+      "role": "Lingüística aplicada en la comunidad",
+      "bio": "Lingüista y promotor cultural del idioma mazateco, es autor de varios libros en dicha lengua. Fue ganador del premio sobre obras en lengua indígena “Premio CaSa 2020”. Colabora con la creación de materiales para leer y escuchar el mazateco en muchas plataformas de internet. También es creador de diversos materiales como folletos, audios y videos en pro del fortalecimiento de las lenguas originarias, además de haber sido traductor de la biblia y escritor de diferentes colecciones literarias en mazateco.",
+      "img": "/images/benito.jpg"
+    },
+    {
+      "name": "Gamaliel Astivia Chavez",
+      "role": "Lingüística Aplicada a la comunidad",
+      "bio": "Licenciado en Comunicación Social por la UAM Xochimilco. Egresado del Diplomado Internacional en Lingüística Aplicada 2018 por el ILV A.C. y la BUAP. Colabora como voluntario del ILV A.C. desde 2019, enfocado en la promoción de los materiales producidos en distintas lenguas en México, a través de medios digitales. Ha dirigido diversos entrenamientos enfocados en producir más contenidos digitales como Apps y Libros digitales, desde las lenguas originarias.",
+      "img": "/images/gamaliel.jpg"
+    },
+    {
+      "name": "Margie Hord",
+      "role": "Lingüística aplicada",
+      "bio": "Licenciada en antropología y Maestra en lingüística aplicada, ambos grados por la Universidad de las Américas Puebla (UDLAP). Ha enseñado una variedad de materias a lo largo de casi treinta años en el Diplomado de Lingüística y ha enseñado inglés y traducción en diversas universidades como la UDLAP, UPAEP, BUAP UVP e ITESM Puebla. Adicionalmente es escritora, traductora y correctora de estilo en inglés y español.",
+      "img": "/images/margie.jpg"
+    },
+    {
+      "name": "Christy Hemphill",
+      "role": "Sociolingüística",
+      "bio": "Lingüista y educadora. Sus áreas de interés académico incluyen la adquisición del idioma, sociolingüística, análisis de gramática, teoría de comunicación y traducción, pedagogía, y diseño curricular. Tiene experiencia dando clases en varios niveles, incluyendo niños, adolescentes, universitarios, y adultos así como en programas educativos de la comunidad. Desde 2013 trabaja en Guerrero con el Instituto Lingüístico de Verano, asesorando un programa de desarrollo de me’phaa. Pasó varios años estudiando y analizando el me’phaa de Teocuitlapa y colaborando con miembros de la comunidad para producir recursos escritos y audios para la alfabetización y la preservación cultural así como para dar talleres de capacitación.",
+      "img": "/images/christy.jpg"
+    },
+    {
+      "name": "Stephen Parker",
+      "role": "Lingüística descriptiva",
+      "bio": "Tiene más de 40 años de experiencia como lingüista de campo, investigador y maestro. Vivió entre varios grupos nativos de la selva amazónica del Perú durante 10 años, documentando y analizando sus lenguas. Después de terminar el doctorado en la Universidad de Massachusetts Amherst en el 2002, trabajó en Papúa Nueva Guinea con Mónica, su esposa peruana. Desde el año 2006 radican como familia en la sede de la misión en Texas, donde Esteban es profesor en Dallas International University. Su área de más interés es la teoría fonológica, incluso la sonoridad y la Teoría de Optimidad. Ha publicado 120 artículos y libros académicos.",
+      "img": "/images/steve.jpg"
+    },
+    {
+      "name": "Ryan Klint",
+      "role": "Lingüística Aplicada en la Comunidad",
+      "bio": "Director e instructor de Lingüística Aplicada en la Comunidad.",
+      "img": "/images/ryan.jpg"
+    }
+  ],
+  "adminTeam": "Equipo Administrativo",
+  "adminTeamList": [
+    {
+      "name": "R. David Klint",
+      "role": "Co-Director",
+      "bio": "R. David Klint es lingüista/traductor con muchos años de experiencia.",
+      "img": "/images/ryan.jpg"
+    },
+    {
+      "name": "Ivan Deance",
+      "role": "Co-Director",
+      "bio": "Ivan Deance es profesor con muchos años de experiencia.",
+      "img": "/images/blank.jpg"
+    },
+    {
+      "name": "Laurel Penner",
+      "role": "Administradora de Logística",
+      "bio": "Laurel Penner es lingüista/traductora con muchos años de experiencia.",
+      "img": "/images/blank.jpg"
+    },
+    {
+      "name": "Isabel Klint",
+      "role": "Administradora de Finanzas",
+      "bio": "Isabel Klint es lingüista/traductora con muchos años de experiencia.",
+      "img": "/images/isabel.jpg"
+    },
+    {
+      "name": "Ana Ibel",
+      "role": "Administradora de Vida Estudiantil",
+      "bio": "Ana Ibel es lingüista/traductora con muchos años de experiencia.",
+      "img": "/images/blank.jpg"
+    }
+  ],
   "coursesDetails": {
-    "title": "Estructura Curricular",
-    "description": "En el Diplomado Internacional en Lingüística Aplicada - BUAP 2024, se ofrecerá un curso de cuatro módulos. Todos los alumnos tomarán los módulos 1 y 2.",
-    "modules": {
+    "title": "Estructura del Plan de Estudios",
+    "description": "En el Diplomado Internacional en Lingüística Aplicada - BUAP 2024, se ofrecerá un curso de cuatro módulos.",
+    "coursesList": {
       "module1": {
         "title": "Introducción a la Fonética Articulatoria",
         "description": "Introducción a la fonética articulatoria y técnicas esenciales a través de un buen entendimiento del Alfabeto Fonético Internacional. El curso contiene mucha práctica en el reconocimiento y la producción de sonidos fundamentales del habla, lo cual ayuda para una buena pronunciación en el aprendizaje de una lengua, y para decodificar los sonidos de cualquier lengua del mundo (40 horas)."
@@ -114,14 +259,32 @@
       }
     }
   },
-  "title": "Diplomado Internacional en Lingüística Aplicada - BUAP 2024",
-  "footer": {
-    "privacyPolicy": "Política de Privacidad",
-    "termsOfUse": "Términos de Uso",
-    "contact": "Contáctenos"
+  "pueblaCityDescription": {
+    "heading": "¡Bienvenidos a la Ciudad de Puebla: Tu Hogar para el Programa de Verano!",
+    "content": "La ciudad de Puebla, un sitio del Patrimonio Mundial de la UNESCO, es una vibrante e histórica ciudad ubicada en el centro de México. Conocida por su rica herencia cultural, impresionante arquitectura y deliciosa gastronomía, Puebla es un destino ideal para los estudiantes que asisten al Diplomado Internacional en Lingüística Aplicada.\n\nCómo Llegar\nEl aeropuerto más cercano es el Aeropuerto Internacional Hermanos Serdán de Puebla (PBC), que tiene vuelos directos desde varias ciudades importantes. Alternativamente, el Aeropuerto Internacional Benito Juárez de la Ciudad de México (MEX) está a unas dos horas en automóvil, con servicios de transporte y autobuses frecuentes que conectan con Puebla.\n\nTransporte Público\nPuebla ofrece un sistema de transporte público confiable y económico, incluyendo autobuses, taxis y el sistema de autobús rápido RUTA (Red Urbana de Transporte Articulado). Para quienes lo prefieren, también están disponibles los servicios de transporte compartido como Uber y Didi.\n\nSeguridad\nPuebla es considerada una de las ciudades más seguras de México. Sin embargo, como con cualquier viaje, es esencial mantenerse atento a su entorno, especialmente por la noche. El centro de la ciudad y las áreas turísticas son generalmente seguras y están bien vigiladas.\n\nAtracciones Turísticas\nPuebla tiene una variedad de atracciones turísticas que no te puedes perder. Entre ellas, la Catedral de Puebla, la Biblioteca Palafoxiana, el Museo Amparo, y el famoso Callejón de los Sapos. Además, la ciudad es conocida por sus festividades y celebraciones culturales vibrantes.\n\nAlojamiento\nHay una amplia gama de opciones de alojamiento en Puebla, desde hoteles de lujo hasta hostales económicos. Muchas de estas opciones están convenientemente ubicadas cerca del centro de la ciudad y de las instalaciones del programa.\n\nGastronomía\nNo te pierdas la oportunidad de probar la cocina poblana, famosa por platillos como el mole poblano, los chiles en nogada y las cemitas. Hay muchos restaurantes y mercados locales donde puedes disfrutar de estas delicias.\n\nEn resumen, Puebla ofrece una mezcla perfecta de cultura, historia y comodidad, haciendo que tu experiencia en el Diplomado Internacional en Lingüística Aplicada sea memorable y enriquecedora."
   },
-  "academics": "Académicos",
-  "instructors": "Instructores",
-  "history": "Historia",
-  "alumni": "Alumni"
+  "buapDescription": "Descripción de la BUAP",
+  "ilvDescription": "Descripción del ILV",
+  "studentRequirements": {
+    "languageProficiency": {
+      "heading": "Dominio del Idioma",
+      "details": "Debe hablar español a un nivel de fluidez académica. Idealmente, debe ser hablante de una lengua indígena de México, especialmente para los cursos relacionados con la traducción y la lingüística aplicada en la comunidad. La experiencia de vida como hablante nativo o fluido de una lengua indígena de México cuenta como preparación académica para el curso."
+    },
+    "educationalBackground": {
+      "heading": "Antecedentes Educativos",
+      "details": "Se prefiere una licenciatura en lingüística, educación, antropología o un campo relacionado. Haber cursado o tener experiencia previa en lingüística o estudios de idiomas es ventajoso."
+    },
+    "professionalExperience": {
+      "heading": "Experiencia Profesional",
+      "details": "Es altamente deseable tener experiencia en la enseñanza, documentación de lenguas, traducción o trabajo comunitario con lenguas indígenas. La experiencia práctica en investigación lingüística o proyectos de preservación de lenguas es beneficiosa."
+    },
+    "technicalSkills": {
+      "heading": "Habilidades Técnicas",
+      "details": "La familiaridad con software y herramientas lingüísticas es una ventaja. Habilidades básicas en informática, incluyendo competencia en Microsoft Office e investigación en internet."
+    },
+    "otherRequirements": {
+      "heading": "Otros Requisitos",
+      "details": "Un fuerte compromiso con la preservación y promoción de las lenguas y culturas indígenas. Capacidad para trabajar colaborativamente en un entorno multicultural y multilingüe. Buenas habilidades de comunicación e interpersonales."
+    }
+  }
 }
